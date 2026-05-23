@@ -39,7 +39,7 @@ I can’t stand Elisabeth Wiener being a prisoner, probably I can’t…
 I can’t stand John Giorno’s *Johnny Guitar*,  
 Nor Jeanne Balibar’s cover of *Johnny Guitar*  
 By Peggy Lee  
-Which have little to do with one another. 
+Which have little to do with one another.  
 
 <!-- block -->
 
@@ -138,7 +138,7 @@ And I wish I did. <!-- block --> That drive for inversion
 Is the inner regime of seduction anyway,  
 The nostalgy for the becoming-an-objet,  
 The hung-up jealousy for the object of desire  
-And ultimately the disdain for one's own subjectivity. 
+And ultimately the disdain for one's own subjectivity.  
 
 <!-- block -->
 
@@ -191,7 +191,7 @@ The type of corny shit you’d read in *Cool Memories*…
 
 Kafka’s main characters are always making love from room to room,  
 Inside-out in non-riemanian topologies,  
-What are they complaining so much about?
+What are they complaining so much about?  
 
 <!-- block -->
 
@@ -225,7 +225,7 @@ Fucking hell…
 I can’t stand the orgy  
 What is anyone doing after the orgy anyway?  
 It has to come to an end at some point or it never even started really.  
-It was all a fraud… 
+It was all a fraud…  
 
 <!-- block -->
 
@@ -264,7 +264,7 @@ Ffs.
 
 <!-- block -->
 
-Visage’s devenir-gris is intolerable,  
+Visage’s *devenir-gris* is intolerable,  
 Really,  
 I cannot stand anything ternary.  
 
@@ -302,7 +302,7 @@ My lover, my baby.
 I can’t stand *Night Porter*, that’s once again the dealing with both sex and death drives,  
 I can’t stand Death in Vegas,  
 Because the name reminds me of the *Suicide Motel* I think,  
-And *Hands Around My Throat* has something too sexy.
+And *Hands Around My Throat* has something too sexy.  
 
 <!-- block -->
 
@@ -324,7 +324,7 @@ And Mako Midori in *Blind Beast*.
 Cybernetics, also,  
 that’s because it makes me think  
 I want us to fuck in positive feedback loops probably,  
-I don’t know. 
+I don’t know.  
 
 <!-- block -->
 
@@ -340,7 +340,7 @@ Of me not being able to stand it.
 The money flowing everywhere, I just cannot stand it,  
 The commodified libido of luxury.  
 You know I’m so fucking done,  
-And this is a metaphysical not a sociological critique. 
+And this is a metaphysical not a sociological critique.  
 
 <!-- block -->
 
@@ -377,7 +377,7 @@ I could do with the 80s mostly, if not for the earlier works of Bret Easton Elli
 Pierre Clémenti, even though you know I really look like him,  
 Or maybe because of that,  
 Nepo babies ofc I cannot stand them bc they are basically semi-gods,  
-And this is a metaphysical not a sociological critique. 
+And this is a metaphysical not a sociological critique.  
 
 <!-- block -->
 
@@ -435,7 +435,7 @@ Because in *Inflammatory Essays* she wants to put young good-looking girls behin
 
 Somehow The Cramps,  
 The Talmud’s hypertextuality,  
-Any form of cyber-sexuality. 
+Any form of cyber-sexuality.  
 
 <!-- block -->
 
@@ -460,7 +460,7 @@ And the satellites as well
 And UK.  
 I can’t stand reference,  
 Let alone (the obsessive dream of)  
-Self-referientiality.
+Self-referientiality.  
 
 <!-- block -->
 
@@ -512,7 +512,7 @@ What else?
 I can’t stand gay saunas,  
 I can’t stand my dreams lately  
 They are mostly erotic,  
-And I am so fucking done for them, sorry.
+And I am so fucking done for them, sorry.  
 
 <!-- block -->
 
@@ -551,7 +551,7 @@ Fading away,
 Or at least I am,  
 I dont’t want to do away with all of it,  
 I think.  
-That’s a beautiful cross to carry 
+That’s a beautiful cross to carry  
 If ever one.  
 
 <!-- block -->
@@ -564,9 +564,10 @@ I gained much more in the fatal strategy.
 
 <!-- block -->
 
-I embrace my becoming-a-text,  
-My becoming-an-image,  
-I will soon be an archive  
+I embrace my *becoming-a-text*,  
+My *becoming-an-image*,  
+My *becoming-a-symbol*.  
+I will soon myself be a bidimensional archive  
 I crystallise my saline alienness  
 On the immanence plane.  
 I am a text-idol.  
