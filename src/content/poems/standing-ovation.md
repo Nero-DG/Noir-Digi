@@ -421,6 +421,12 @@ What can I do.
 
 <!-- block -->
 
+I can't stand the acid fragrance of semen,  
+It's opaque genuineness,
+I don't really know,  
+
+<!-- block -->
+
 Fuck any fashion editorial,  
 I can’t stand,  
 They fucked me so bad,  
@@ -432,6 +438,7 @@ I should have fucked them before they fucked me.
 I can’t stand les Rallizes dénudés,  
 I can’t stand le Silencio,  
 (I’ve never been),  
+It keeps wearing down on me...  
 Any form of charisma,  
 I lost my charisma in the most boring encounter,  
 They tricked me in the symbolic exchange,  
@@ -462,6 +469,7 @@ Any form of cyber-sexuality.
 I can’t stand abstraction,  
 I want to escape any form of concrete embodiment,  
 I want to invade your body.  
+I am so fucking done for,  
 I am so fucking horny.  
 
 <!-- block -->
@@ -487,7 +495,7 @@ Self-referientiality.
 I can’t stand *Tombeau pour 500 000 Soldats* as a title  
 And *Complicity with Anonymous Materials*,  
 The ghostly voice of Sinead O' Connor,  
-Flare velvet jeans.  
+Tom Ford flare velvet jeans.  
 
 <!-- block -->
 
@@ -509,7 +517,7 @@ I can’t stand the injunction to relevance,
 I can’t stand Laurie Anderson  
 Because Michel Reis is touching herself through the fabric of her robe against a jukebox  
 And Christopher Doyle is doing the cinematography.  
-Fuck knows I can’t stand it.  
+Fuck knows I cannot stand it.  
 
 <!-- block -->
 
@@ -548,6 +556,8 @@ I can’t stand *Losing My Religion*
 And the cartesian idea of the never reached negative infinite.  
 I can’t stand the cultural crystalisation of the feminine  
 Of course I don’t,  
+I am so fucking done for  
+The plasticity of your skin.  
 That’s to summarise basically.  
 
 <!-- block -->
