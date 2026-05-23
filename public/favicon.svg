@@ -5,8 +5,8 @@
     y="40"
     fill="#fff"
     font-family="Consolas, 'Lucida Console', 'Courier New', monospace"
-    font-size="26"
+    font-size="30"
     font-weight="700"
-    letter-spacing="-2"
+    letter-spacing="-2.5"
     text-anchor="middle">DG</text>
 </svg>
