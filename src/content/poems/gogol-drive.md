@@ -43,7 +43,7 @@ More presence than me.
 <!-- block -->
 
 I’ve seen mediocre beings with more drive than me,  
-Bare humunculuses with more drive than me..  
+Bare homunculuses with more drive than me..  
 Ffs I’ve even seen dead objects lying on the floor with more drive than me,  
 Fossilised non-existing ghosts of agencies teasing, making fun of me.  
 Fair enough.  
