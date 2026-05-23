@@ -138,7 +138,7 @@ And I wish I did. <!-- block --> That drive for inversion
 Is the inner regime of seduction anyway,  
 The nostalgy for the becoming-an-objet,  
 The hung-up jealousy for the object of desire  
-And ultimately the disdain for one owns subjectivity. 
+And ultimately the disdain for one's own subjectivity. 
 
 <!-- block -->
 
