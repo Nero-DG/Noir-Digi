@@ -302,7 +302,7 @@ That’s approximately how I feel.
 
 *Heroin chic* is called this way  
 Because I am so fucking hooked to it,  
-The sublime is never enough,  
+The sublime is never enough  
 Like it could not stand itself either,  
 
 <!-- block -->
