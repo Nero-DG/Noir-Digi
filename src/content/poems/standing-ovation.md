@@ -183,7 +183,8 @@ In *Marienbad*’s glam-phantomality.
 
 <!-- block -->
 
-The signifier *femme*, mostly as an acoustic footprint.  
+The signifier *femme*,  
+Both as a visual and as an acoustic footprint.  
 Is the signifier always femme?  
 The type of corny shit you’d read in *Cool Memories*…  
 
@@ -192,6 +193,15 @@ The type of corny shit you’d read in *Cool Memories*…
 Kafka’s main characters are always making love from room to room,  
 Inside-out in non-riemanian topologies,  
 What are they complaining so much about?  
+
+<!-- block -->
+
+Cobra snake party shoots, indie sleeze,  
+Something make me really depressed about it,  
+I think it's the recursion of style and party  
+Folding back on one another,  
+I cannot stand their circularity,  
+I am so fucking done for.
 
 <!-- block -->
 
@@ -335,10 +345,14 @@ I don’t know.
 
 I don’t know if I can’t stand the flat screen because of all the images it displays  
 Or all the images because they are displayed on the (ideally) perfect flatness of the screen  
-And I can’t stand the ever flowing display when I scroll across beauty.  
+And I can’t stand the ever flowing display when I scroll across beauty. 
+
+<!-- block -->
+
 The self-refraction of the image in the serie is so fucking unsupportable  
 So I myself can’t stand it in ever repeating echoes,  
-Of me not being able to stand it.  
+Of me not being able to stand it,
+That's a fixed point baby.
 
 <!-- block -->
 
