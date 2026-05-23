@@ -113,7 +113,7 @@ Sirens,
 The trans-sexuality of a fish-woman,  
 The oceanicness of what she sings.  
 The oceanic sentiment  
-Of hypertrophied eternity.  
+Of atrophied eternity.  
 
 <!-- block -->
 
