@@ -454,10 +454,10 @@ I cannot stand the curvature in Iggy pop stance,
 That has something eerie, and suggestive and nefarious  
 Like probably was Oedipus’s limping for Thebes  
 And by the way I just pissed in the sink  
+If you need to know about it.  
 
 <!-- block -->
 
-If you need to know about it.  
 I probably can’t stand Russia altogether  
 And the satellites as well  
 And UK.  
