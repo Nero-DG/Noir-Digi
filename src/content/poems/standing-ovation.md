@@ -272,7 +272,10 @@ I cannot stand anything ternary.
 
 I went to the cinema yesterday  
 And I couldn’t stand *Black Swan* because ballet is too beautiful and expensive for one not to feel excluded by it  
-And this is a metaphysical not a sociological critique.  
+And this is a metaphysical not a sociological critique.
+
+<!-- block -->
+
 But really I could not stand it  
 Because I can’t stand Vincent Cassel by association  
 Because I can’t stand Monica Bellucci as the ultimate impossible challenge in the symbolic exchange thrown at me.  
