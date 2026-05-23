@@ -45,7 +45,7 @@ Which have little to do with one another.
 
 I can’t stand Ballard’s *Crash*  
 And its structural systemised fuck,  
-And when it becomes Cronemberg’s  
+And when it becomes Cronenberg’s  
 I want to plant a bullet inside my cock  
 Because the geometry of Rosanna Arquette with braces  
 Is too fucking unbearable to me.  
@@ -54,7 +54,7 @@ Is too fucking unbearable to me.
 
 I can’t stand *Le beau bizarre* in Christophe’s persona  
 And Gainsbourg’s *Kiss me Hardy*,  
-I can’t stand any of the fashion twinks 
+I can’t stand any of the fashion twinks  
 That are all so fucking tall and immaculate  
 With beauty. <!-- block --> My only salvation is they decided  
 To not desire the same person I desire  
@@ -183,7 +183,7 @@ In *Marienbad*’s glam-phantomality.
 
 <!-- block -->
 
-The signifier femme, mostly as an acoustic footprint.  
+The signifier *femme*, mostly as an acoustic footprint.  
 Is the signifier always femme?  
 The type of corny shit you’d read in *Cool Memories*…  
 
@@ -283,6 +283,13 @@ Because I can’t stand Monica Bellucci as the ultimate impossible challenge in 
 The unbearable is an asymmetry,  
 Just like the primal people infinitely indebted in respect to their gods,  
 That’s approximately how I feel.  
+
+<!-- block -->
+
+*Heroin chic* is called this way  
+Because I am so fucking hooked to it,  
+The sublime is never enough,  
+Like it could not stand itself either,  
 
 <!-- block -->
 
@@ -457,7 +464,7 @@ Self-referientiality.
 
 <!-- block -->
 
-I can’t stand *Tombeau pour 500 000 Soldat* as a title  
+I can’t stand *Tombeau pour 500 000 Soldats* as a title  
 And *Complicity with Anonymous Materials*,  
 The ghostly voice of Sinead O' Connor,  
 Flare velvet jeans.  
