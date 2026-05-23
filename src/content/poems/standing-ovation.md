@@ -570,7 +570,7 @@ I gained much more in the fatal strategy.
 I embrace my *becoming-a-text*,  
 My *becoming-an-image*,  
 My *becoming-a-symbol*.  
-I will soon myself be a bidimensional archive  
+I will soon transform into a bidimensional archive,  
 I crystallise my saline alienness  
 On the immanence plane.  
 I am a text-idol.  
