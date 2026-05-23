@@ -245,13 +245,14 @@ I am so fucking done for/with any kind of semio-erotic litteracy.
 
 I contemplated suicide,  
 But I did not really suit its style,  
+I am so fucking done for  
 And I could not stand it.  
 
 <!-- block -->
 
 I can’t stand the ice-cold stainless steel blueishness  
 Of English language,  
-I barely tried though.  
+I barely tried though...  
 
 <!-- block -->
 
@@ -323,6 +324,7 @@ And objective irony.
 <!-- block -->
 
 I can’t stand the night,  
+I am so fucking done for,
 And Mako Midori in *Blind Beast*.  
 Cybernetics, also,  
 that’s because it makes me think  
@@ -358,7 +360,7 @@ But that’s corny.
 
 <!-- block -->
 
-I am so fucking done,  
+I am so fucking done for,  
 So fucking mesmerised,  
 Most of the time I want to see society disappears in a terrorist attack  
 When I see Steven Meisel’s *State of Emergency*,  
@@ -408,6 +410,7 @@ What can I do.
 Fuck any fashion editorial,  
 I can’t stand,  
 They fucked me so bad,  
+I am so fucking done for,  
 I should have fucked them before they fucked me.  
 
 <!-- block -->
@@ -577,7 +580,7 @@ I am a text-idol.
 I am the mirror.  
 
 <!-- block -->
-
+I am so fucking done for,  
 I think of you,  
 Thinking of me.  
 
