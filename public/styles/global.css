@@ -129,15 +129,24 @@ html {
 }
 
 body {
+  position: relative;
   min-width: 320px;
   min-height: 100%;
   margin: 0;
-  background: var(--body-bg);
-  background-attachment: fixed;
+  background: var(--background);
   color: var(--text);
   letter-spacing: 0;
   font-family: var(--font-main);
   overflow-x: hidden;
+}
+
+body::before {
+  content: "";
+  position: fixed;
+  inset: 0;
+  z-index: -3;
+  pointer-events: none;
+  background: var(--body-bg);
 }
 
 body::after {
@@ -233,7 +242,7 @@ a {
   z-index: 1;
   width: min(820px, calc(100% - 32px - clamp(110px, 18vw, 280px)));
   margin: 0 auto 0 clamp(16px, 6vw, 88px);
-  padding: clamp(120px, 16vw, 190px) 0 0;
+  padding: clamp(120px, 16vw, 190px) 0 calc(clamp(1.2rem, 2.15vw, 1.82rem) * 5.75);
   border-left: 1px solid var(--faint);
   border-right: 1px solid rgba(255, 255, 255, 0.06);
 }
