@@ -1,0 +1,22 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../layouts/BaseLayout.astro';
+
+const poems = (await getCollection('poems')).sort(
+  (a, b) => b.data.date.valueOf() - a.data.date.valueOf(),
+);
+---
+
+<BaseLayout title="Noir-digi" tone="main">
+  <main class="index-page">
+    <nav class="poem-index" aria-label="Poems">
+      {
+        poems.map((poem) => (
+          <a href={`/poems/${poem.slug}/`}>
+            <span>{poem.data.title}</span>
+          </a>
+        ))
+      }
+    </nav>
+  </main>
+</BaseLayout>

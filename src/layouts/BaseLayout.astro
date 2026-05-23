@@ -1,0 +1,25 @@
+---
+const { title = 'Poetry', tone = 'main' } = Astro.props;
+---
+
+<!doctype html>
+<html lang="en" data-tone={tone}>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width" />
+    <meta name="generator" content={Astro.generator} />
+    <title>{title}</title>
+    <link rel="icon" type="image/png" href="/favicon.png?v=dg-2" sizes="64x64" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg?v=dg-2" />
+    <link rel="stylesheet" href="/styles/global.css" />
+  </head>
+  <body>
+    <a class="site-mark" href="/" aria-label="Noir-digi home">
+      <span>N</span><span>D</span>
+      <span>O</span><span>I</span>
+      <span>I</span><span>G</span>
+      <span>R</span><span>I</span>
+    </a>
+    <slot />
+  </body>
+</html>

@@ -1,0 +1,349 @@
+:root {
+  color-scheme: dark;
+  --background: #050505;
+  --text: rgba(255, 255, 255, 0.88);
+  --muted: rgba(255, 255, 255, 0.42);
+  --faint: rgba(255, 255, 255, 0.11);
+  --rail: rgba(255, 255, 255, 0.2);
+  --font-main: Bahnschrift, "Arial Narrow", "Helvetica Neue", Arial, sans-serif;
+  --font-ui: Bahnschrift, "Arial Narrow", "Helvetica Neue", Arial, sans-serif;
+  --body-bg:
+    repeating-linear-gradient(90deg, transparent 0 76px, rgba(255, 255, 255, 0.035) 76px 77px),
+    repeating-linear-gradient(0deg, transparent 0 34px, rgba(255, 255, 255, 0.025) 34px 35px),
+    linear-gradient(90deg, transparent 0 12%, var(--rail) 12% calc(12% + 1px), transparent calc(12% + 1px) 100%),
+    linear-gradient(90deg, transparent 0 72%, var(--faint) 72% calc(72% + 1px), transparent calc(72% + 1px) 100%),
+    linear-gradient(180deg, #080808 0%, #020202 100%);
+  --ghost-word: "NOIR-DIGI";
+  --ghost-opacity: 0.055;
+  --after-bg: repeating-linear-gradient(115deg, rgba(255, 255, 255, 0.035) 0 1px, transparent 1px 11px);
+  --after-opacity: 0.22;
+  --tone-wash: linear-gradient(180deg, transparent, transparent);
+  --figure-layer: linear-gradient(180deg, transparent, transparent);
+  --figure-opacity: 0;
+  font-family: Bahnschrift, "Arial Narrow", "Helvetica Neue", Arial, sans-serif;
+}
+
+:root[data-tone="main"] {
+  --text: rgba(255, 255, 255, 0.88);
+  --muted: rgba(255, 255, 255, 0.46);
+  --faint: rgba(255, 255, 255, 0.16);
+  --rail: rgba(255, 255, 255, 0.26);
+  --body-bg:
+    radial-gradient(ellipse 10rem 28rem at 70% 44%, rgba(255, 255, 255, 0.055), transparent 72%),
+    radial-gradient(ellipse at 66% 36%, rgba(255, 255, 255, 0.095), transparent 13rem),
+    radial-gradient(ellipse at 78% 25%, rgba(255, 255, 255, 0.04), transparent 26rem),
+    repeating-radial-gradient(circle at 24% 32%, rgba(255, 255, 255, 0.04) 0 1px, transparent 1px 4px),
+    repeating-radial-gradient(circle at 82% 68%, rgba(255, 255, 255, 0.035) 0 1px, transparent 1px 5px),
+    linear-gradient(96deg, transparent 0 18%, rgba(255, 255, 255, 0.075) 18% 18.12%, transparent 18.12% 100%),
+    linear-gradient(104deg, transparent 0 58%, rgba(255, 255, 255, 0.05) 58% 58.1%, transparent 58.1% 100%),
+    repeating-linear-gradient(90deg, transparent 0 39px, rgba(255, 255, 255, 0.014) 39px 40px),
+    repeating-linear-gradient(0deg, transparent 0 23px, rgba(255, 255, 255, 0.013) 23px 24px),
+    linear-gradient(180deg, #010101 0%, #000000 100%);
+  --ghost-word: "NOIR-DIGI";
+  --ghost-opacity: 0.04;
+  --tone-wash:
+    radial-gradient(ellipse 6rem 23rem at 73% 47%, rgba(255, 255, 255, 0.022), transparent 74%),
+    radial-gradient(ellipse at 22% 70%, rgba(170, 170, 170, 0.025), transparent 24rem),
+    linear-gradient(180deg, rgba(255, 255, 255, 0.008), transparent 40%);
+  --after-bg:
+    repeating-radial-gradient(circle at 50% 50%, rgba(255, 255, 255, 0.032) 0 1px, transparent 1px 3px),
+    repeating-linear-gradient(115deg, rgba(255, 255, 255, 0.028) 0 1px, transparent 1px 7px),
+    repeating-linear-gradient(0deg, rgba(255, 255, 255, 0.018) 0 1px, transparent 1px 4px);
+  --after-opacity: 0.28;
+}
+
+:root[data-tone="gogol-drive"] {
+  --text: rgba(255, 255, 255, 0.88);
+  --muted: rgba(255, 255, 255, 0.46);
+  --faint: rgba(255, 255, 255, 0.16);
+  --rail: rgba(255, 255, 255, 0.26);
+  --body-bg:
+    radial-gradient(ellipse 10rem 28rem at 70% 44%, rgba(140, 255, 178, 0.072), transparent 72%),
+    radial-gradient(ellipse at 66% 36%, rgba(140, 255, 178, 0.125), transparent 13rem),
+    radial-gradient(ellipse at 78% 25%, rgba(140, 255, 178, 0.058), transparent 26rem),
+    repeating-radial-gradient(circle at 24% 32%, rgba(140, 255, 178, 0.055) 0 1px, transparent 1px 4px),
+    repeating-radial-gradient(circle at 82% 68%, rgba(140, 255, 178, 0.048) 0 1px, transparent 1px 5px),
+    linear-gradient(96deg, transparent 0 18%, rgba(140, 255, 178, 0.095) 18% 18.12%, transparent 18.12% 100%),
+    linear-gradient(104deg, transparent 0 58%, rgba(140, 255, 178, 0.065) 58% 58.1%, transparent 58.1% 100%),
+    repeating-linear-gradient(90deg, transparent 0 39px, rgba(140, 255, 178, 0.02) 39px 40px),
+    repeating-linear-gradient(0deg, transparent 0 23px, rgba(140, 255, 178, 0.018) 23px 24px),
+    linear-gradient(180deg, #010101 0%, #000000 100%);
+  --ghost-word: "NOIR-DIGI";
+  --ghost-opacity: 0.04;
+  --tone-wash:
+    radial-gradient(ellipse 6rem 23rem at 73% 47%, rgba(140, 255, 178, 0.03), transparent 74%),
+    radial-gradient(ellipse at 22% 70%, rgba(95, 205, 135, 0.034), transparent 24rem),
+    linear-gradient(180deg, rgba(140, 255, 178, 0.012), transparent 40%);
+  --after-bg:
+    repeating-radial-gradient(circle at 50% 50%, rgba(140, 255, 178, 0.042) 0 1px, transparent 1px 3px),
+    repeating-linear-gradient(115deg, rgba(140, 255, 178, 0.036) 0 1px, transparent 1px 7px),
+    repeating-linear-gradient(0deg, rgba(140, 255, 178, 0.024) 0 1px, transparent 1px 4px);
+  --after-opacity: 0.28;
+}
+
+:root[data-tone="standing-ovation"] {
+  --text: rgba(255, 255, 255, 0.88);
+  --muted: rgba(255, 255, 255, 0.45);
+  --faint: rgba(255, 255, 255, 0.13);
+  --rail: rgba(255, 255, 255, 0.22);
+  --body-bg:
+    radial-gradient(ellipse 10rem 28rem at 70% 44%, rgba(205, 150, 255, 0.075), transparent 72%),
+    radial-gradient(ellipse at 66% 36%, rgba(205, 150, 255, 0.13), transparent 13rem),
+    radial-gradient(ellipse at 78% 25%, rgba(205, 150, 255, 0.06), transparent 26rem),
+    repeating-radial-gradient(circle at 24% 32%, rgba(205, 150, 255, 0.058) 0 1px, transparent 1px 4px),
+    repeating-radial-gradient(circle at 82% 68%, rgba(205, 150, 255, 0.05) 0 1px, transparent 1px 5px),
+    linear-gradient(96deg, transparent 0 18%, rgba(205, 150, 255, 0.1) 18% 18.12%, transparent 18.12% 100%),
+    linear-gradient(104deg, transparent 0 58%, rgba(205, 150, 255, 0.07) 58% 58.1%, transparent 58.1% 100%),
+    repeating-linear-gradient(90deg, transparent 0 39px, rgba(205, 150, 255, 0.021) 39px 40px),
+    repeating-linear-gradient(0deg, transparent 0 23px, rgba(205, 150, 255, 0.019) 23px 24px),
+    linear-gradient(180deg, #010101 0%, #000000 100%);
+  --tone-wash:
+    radial-gradient(ellipse 6rem 23rem at 73% 47%, rgba(205, 150, 255, 0.032), transparent 74%),
+    radial-gradient(ellipse at 22% 70%, rgba(170, 105, 235, 0.036), transparent 24rem),
+    linear-gradient(180deg, rgba(205, 150, 255, 0.012), transparent 40%);
+  --figure-layer: linear-gradient(180deg, transparent, transparent);
+  --after-bg:
+    repeating-radial-gradient(circle at 50% 50%, rgba(205, 150, 255, 0.045) 0 1px, transparent 1px 3px),
+    repeating-linear-gradient(115deg, rgba(205, 150, 255, 0.038) 0 1px, transparent 1px 7px),
+    repeating-linear-gradient(0deg, rgba(205, 150, 255, 0.026) 0 1px, transparent 1px 4px);
+  --after-opacity: 0.28;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  min-height: 100%;
+  background: var(--background);
+}
+
+:root[data-tone="standing-ovation"],
+:root[data-tone="gogol-drive"] {
+  scrollbar-width: none;
+}
+
+:root[data-tone="standing-ovation"]::-webkit-scrollbar,
+:root[data-tone="gogol-drive"]::-webkit-scrollbar {
+  display: none;
+}
+
+body {
+  min-width: 320px;
+  min-height: 100%;
+  margin: 0;
+  background: var(--body-bg);
+  background-attachment: fixed;
+  color: var(--text);
+  letter-spacing: 0;
+  font-family: var(--font-main);
+  overflow-x: hidden;
+}
+
+body::after {
+  content: "";
+  position: fixed;
+  inset: 0;
+  z-index: -2;
+  pointer-events: none;
+  background-image:
+    var(--figure-layer),
+    var(--tone-wash),
+    var(--after-bg);
+  opacity: var(--after-opacity);
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+.site-mark {
+  position: fixed;
+  top: clamp(18px, 4vw, 42px);
+  right: clamp(14px, 3vw, 38px);
+  z-index: 10;
+  display: grid;
+  grid-template-columns: repeat(2, 0.72em);
+  gap: 0.02em 0.18em;
+  color: rgba(255, 255, 255, 0.86);
+  font-family: Consolas, "Lucida Console", "Courier New", monospace;
+  font-size: clamp(2.4rem, 7vw, 6.8rem);
+  font-weight: 700;
+  line-height: 0.86;
+  letter-spacing: -0.04em;
+  text-transform: uppercase;
+}
+
+.site-mark:hover,
+.site-mark:focus-visible {
+  color: #ffffff;
+  outline: 0;
+}
+
+:root[data-tone="standing-ovation"] .site-mark {
+  color: rgba(255, 255, 255, 0.68);
+}
+
+.index-page {
+  position: relative;
+  z-index: 1;
+  min-height: 165vh;
+  width: min(980px, calc(100% - 32px - clamp(110px, 18vw, 280px)));
+  margin: 0 auto 0 clamp(16px, 6vw, 88px);
+  padding: clamp(120px, 16vw, 190px) 0 40vh;
+  border-left: 1px solid var(--faint);
+  border-right: 1px solid rgba(255, 255, 255, 0.06);
+}
+
+.poem-index {
+  display: grid;
+  gap: clamp(28px, 7vw, 96px);
+  margin-top: clamp(42vh, 48vw, 62vh);
+  padding-bottom: 20vh;
+}
+
+.poem-index a {
+  position: relative;
+  display: block;
+  width: fit-content;
+  max-width: 100%;
+  padding-left: clamp(12px, 2vw, 24px);
+  color: var(--text);
+  font-size: clamp(2.8rem, 9.5vw, 10rem);
+  font-weight: 800;
+  line-height: 0.82;
+  letter-spacing: -0.06em;
+  text-transform: uppercase;
+  transform: translateY(0);
+  transition:
+    color 220ms ease,
+    transform 420ms cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+.poem-index a:hover,
+.poem-index a:focus-visible {
+  color: var(--muted);
+  transform: translateY(-0.12em) translateX(0.08em);
+  outline: 0;
+}
+
+.poem-page {
+  position: relative;
+  z-index: 1;
+  width: min(820px, calc(100% - 32px - clamp(110px, 18vw, 280px)));
+  margin: 0 auto 0 clamp(16px, 6vw, 88px);
+  padding: clamp(120px, 16vw, 190px) 0 0;
+  border-left: 1px solid var(--faint);
+  border-right: 1px solid rgba(255, 255, 255, 0.06);
+}
+
+:root[data-tone="standing-ovation"] .poem-page,
+:root[data-tone="gogol-drive"] .poem-page {
+  border-left: 0;
+  border-right: 0;
+}
+
+.poem header {
+  margin-bottom: clamp(48px, 10vw, 120px);
+}
+
+.date {
+  margin: 0 0 18px;
+  color: var(--muted);
+  font-family: var(--font-ui);
+  font-size: 0.72rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.poem h1 {
+  margin: 0;
+  color: var(--text);
+  font-size: clamp(3rem, 10vw, 9rem);
+  font-weight: 800;
+  line-height: 0.82;
+  letter-spacing: -0.06em;
+  text-transform: uppercase;
+}
+
+.poem p,
+.poem-flow {
+  margin: 0;
+  color: var(--text);
+  font-size: clamp(1.2rem, 2.15vw, 1.82rem);
+  font-weight: 350;
+  line-height: 1.15;
+}
+
+.poem-flow {
+  margin: 0;
+}
+
+.has-js .poem-segment {
+  display: inline-block;
+  opacity: var(--block-progress, 0);
+  transform: scale(1);
+  transform-origin: left center;
+  transition:
+    color 180ms ease,
+    opacity 220ms linear,
+    transform 260ms cubic-bezier(0.16, 1, 0.3, 1);
+  will-change: opacity, transform;
+}
+
+.has-js .poem-segment.is-hovered {
+  color: #ffffff;
+  transform: scale(1.075, 1.075);
+  opacity: 1;
+}
+
+.poem em {
+  font-style: italic;
+  color: rgba(255, 255, 255, 0.78);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .has-js .poem-segment {
+    opacity: 1;
+    transition: none;
+  }
+}
+
+@media (max-width: 680px) {
+  .site-mark {
+    right: 12px;
+    z-index: 2;
+    color: rgba(255, 255, 255, 0.18);
+    font-size: clamp(1.5rem, 10vw, 3rem);
+  }
+
+  :root[data-tone="standing-ovation"] .site-mark,
+  :root[data-tone="gogol-drive"] .site-mark {
+    color: rgba(255, 255, 255, 0.16);
+  }
+
+  .index-page,
+  .poem-page {
+    width: min(100% - 24px, 900px);
+    margin: 0 auto;
+  }
+
+  .index-page {
+    min-height: 145vh;
+  }
+
+  .poem-index {
+    margin-top: 38vh;
+  }
+
+  .has-js .poem-segment {
+    display: inline;
+    transform: none;
+  }
+
+  .has-js .poem-segment.is-hovered {
+    transform: none;
+  }
+}

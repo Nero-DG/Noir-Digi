@@ -1,0 +1,228 @@
+---
+import { getCollection, render } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+
+export async function getStaticPaths() {
+  const poems = await getCollection('poems');
+
+  return poems.map((poem) => ({
+    params: { slug: poem.slug },
+    props: { poem },
+  }));
+}
+
+const { poem } = Astro.props;
+const { Content } = await render(poem);
+---
+
+<BaseLayout title={`${poem.data.title} | Noir-digi`} tone={poem.slug}>
+  <main class="poem-page">
+    <article class="poem">
+      <header>
+        <p class="date">
+          {poem.data.date.toLocaleDateString('en', {
+            month: 'long',
+            day: 'numeric',
+            year: 'numeric',
+          })}
+          {poem.data.location && ` / ${poem.data.location}`}
+        </p>
+        <h1>{poem.data.title}</h1>
+      </header>
+      <div class="poem-content">
+        <Content />
+      </div>
+    </article>
+  </main>
+
+  <script>
+    const poemContent = document.querySelector('.poem-content');
+
+    if (poemContent) {
+      const isBlockMarker = (node: Node) =>
+        node.nodeType === Node.COMMENT_NODE && node.textContent?.trim().toLowerCase() === 'block';
+
+      const commentWalker = document.createTreeWalker(poemContent, NodeFilter.SHOW_COMMENT);
+      let hasManualMarkers = false;
+
+      while (commentWalker.nextNode()) {
+        if (isBlockMarker(commentWalker.currentNode)) {
+          hasManualMarkers = true;
+          break;
+        }
+      }
+
+      const flow = document.createElement('div');
+      flow.className = 'poem-flow';
+      let blockIndex = 0;
+      let lineIndex = 0;
+      let currentSegment = document.createElement('span');
+      currentSegment.className = 'poem-segment';
+      currentSegment.dataset.block = String(blockIndex);
+
+      const segmentHasContent = () => Boolean(currentSegment.textContent?.trim() || currentSegment.children.length);
+
+      const flushSegment = () => {
+        if (segmentHasContent()) {
+          flow.append(currentSegment);
+        }
+
+        currentSegment = document.createElement('span');
+        currentSegment.className = 'poem-segment';
+        currentSegment.dataset.block = String(blockIndex);
+      };
+
+      const flushLine = () => {
+        flushSegment();
+        flow.append(document.createElement('br'));
+        lineIndex += 1;
+      };
+
+      const nextBlock = () => {
+        flushSegment();
+        blockIndex += 1;
+        currentSegment.dataset.block = String(blockIndex);
+      };
+
+      const appendSpatialLineBreak = () => {
+        if (flow.lastChild instanceof HTMLBRElement || !flow.textContent?.trim()) {
+          return;
+        }
+
+        flow.append(document.createElement('br'));
+        lineIndex += 1;
+      };
+
+      const appendNode = (node: Node) => {
+        if (isBlockMarker(node)) {
+          nextBlock();
+          return;
+        }
+
+        if (node instanceof HTMLBRElement) {
+          flushLine();
+
+          if (!hasManualMarkers && lineIndex > 0 && lineIndex % 5 === 0) {
+            nextBlock();
+          }
+
+          return;
+        }
+
+        if (node.nodeType === Node.TEXT_NODE) {
+          if (node.textContent?.trim()) {
+            currentSegment.append(node.cloneNode(true));
+          }
+
+          return;
+        }
+
+        if (node instanceof HTMLElement) {
+          currentSegment.append(node.cloneNode(true));
+        }
+      };
+
+      const processNode = (node: Node) => {
+        if (isBlockMarker(node)) {
+          nextBlock();
+          appendSpatialLineBreak();
+          return;
+        }
+
+        if (node instanceof HTMLParagraphElement) {
+          [...node.childNodes].forEach(appendNode);
+          return;
+        }
+
+        appendNode(node);
+      };
+
+      [...poemContent.childNodes].forEach(processNode);
+      flushSegment();
+      poemContent.replaceChildren(flow);
+
+      document.documentElement.classList.add('has-js');
+
+      const blockMap = new Map<string, HTMLElement[]>();
+      poemContent.querySelectorAll<HTMLElement>('.poem-segment').forEach((segment) => {
+        const block = segment.dataset.block ?? '0';
+        const segments = blockMap.get(block) ?? [];
+        segments.push(segment);
+        blockMap.set(block, segments);
+      });
+
+      const blocks = [...blockMap.values()];
+      let ticking = false;
+
+      const clamp = (value: number) => Math.min(Math.max(value, 0), 1);
+
+      const updateBlocks = () => {
+        const viewportHeight = window.innerHeight;
+
+        blocks.forEach((segments) => {
+          const rects = segments.flatMap((segment) => [...segment.getClientRects()]);
+          if (!rects.length) {
+            return;
+          }
+
+          const top = Math.min(...rects.map((rect) => rect.top));
+          const bottom = Math.max(...rects.map((rect) => rect.bottom));
+          const enterProgress = 1 - clamp((top - viewportHeight * 0.52) / (viewportHeight * 0.34));
+          const exitProgress = clamp((bottom - viewportHeight * 0.04) / (viewportHeight * 0.24));
+          const progress = Math.min(enterProgress, exitProgress);
+
+          segments.forEach((segment) => {
+            segment.style.setProperty('--block-progress', progress.toFixed(3));
+            segment.classList.toggle('is-visible', progress > 0.02);
+          });
+        });
+
+        ticking = false;
+      };
+
+      const requestUpdate = () => {
+        if (!ticking) {
+          ticking = true;
+          requestAnimationFrame(updateBlocks);
+        }
+      };
+
+      window.addEventListener('scroll', requestUpdate, { passive: true });
+      window.addEventListener('resize', requestUpdate);
+      requestUpdate();
+      window.setTimeout(requestUpdate, 350);
+
+      const clearHoveredBlock = () => {
+        flow.querySelectorAll('.is-hovered').forEach((segment) => {
+          segment.classList.remove('is-hovered');
+        });
+      };
+
+      flow.addEventListener('mouseover', (event) => {
+        const target = event.target;
+
+        if (!(target instanceof Element)) {
+          return;
+        }
+
+        const segment = target.closest<HTMLElement>('.poem-segment');
+
+        if (!segment) {
+          clearHoveredBlock();
+          return;
+        }
+
+        const block = segment.dataset.block;
+        clearHoveredBlock();
+
+        flow.querySelectorAll<HTMLElement>(`.poem-segment[data-block="${block}"]`).forEach((hoveredSegment) => {
+          hoveredSegment.classList.add('is-hovered');
+        });
+      });
+
+      flow.addEventListener('mouseleave', () => {
+        clearHoveredBlock();
+      });
+    }
+  </script>
+</BaseLayout>
