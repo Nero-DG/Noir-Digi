@@ -334,7 +334,7 @@ And objective irony.
 <!-- block -->
 
 I can’t stand the night,  
-I am so fucking done for,
+I am so fucking done for,  
 And Mako Midori in *Blind Beast*.  
 Cybernetics, also,  
 that’s because it makes me think  
