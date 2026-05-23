@@ -562,10 +562,13 @@ My becoming-an-image,
 I will soon be an archive  
 I crystallise my saline alienness  
 On the immanence plane.  
-I am a text-idole.  
+I am a text-idol.  
 I am the mirror.  
 
 <!-- block -->
 
 I think of you,  
 Thinking of me.  
+
+<!-- block -->
+___
