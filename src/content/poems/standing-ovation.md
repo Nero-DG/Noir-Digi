@@ -130,7 +130,7 @@ And this is a metaphysical not a sociological critique.
 
 <!-- block -->
 
-I can’t stand Liza Minelli’s eyes,
+I can’t stand Liza Minelli’s eyes,  
 Or Shelley Duvall's  
 And all the artificial paradises anyway,  
 Fuck knows I can’t stand the sheer amount of sex and death drive fractally intertwined  
