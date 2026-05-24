@@ -35,11 +35,22 @@ And double-bound that is sandwich-fucked us,
 So now I am fucking depressed  
 By its alien inaccessible beauty. <!-- block --> I can’t stand the image,  
 The idolatry it inspires in me.  
+I can't stand the differ*a*nce between tissue and skin  
+Worn by half-naked bodies.  
+
+<!-- block -->
+
+The iconoclast is always an iconolater  
+Or the other away around whatever...  
+I am so fucking done for,  
+I can't stand the l[u/o]st futures  
+I fucking wasted them already.   
+
+<!-- block -->
 I can’t stand Elisabeth Wiener being a prisoner, probably I can’t…  
-I can’t stand John Giorno’s *Johnny Guitar*,  
-Nor Jeanne Balibar’s cover of *Johnny Guitar*  
-By Peggy Lee  
-Which have little to do with one another.  
+I don't know why I am starting off with that,  
+I can't stand it.  
+
 
 <!-- block -->
 
@@ -72,13 +83,20 @@ Or they were too young equivalently.
 
 <!-- block -->
 
-
+I can't stand Edie Sedgwick's  
+Eyebrows and tragic destiny,  
+I am so fucking done for,  
 I can’t stand Ka-tzenik *House of Dolls*,  
+I can’t stand John Giorno’s *Johnny Guitar*,  
+Nor Jeanne Balibar’s cover of *Johnny Guitar*  
+By Peggy Lee  
+Which have little to do with one another, 
+Or maybe?  
+
 I can’t stand Megumi Satsu being exterminated in the *Suicide Motel*,  
-I had been dreaming of a *Suicide Motel* as well,  
-A terminal facility  
-For desire to end,  
-Finally.  
+I had been dreaming of a suicide motel as well,  
+A terminal facility for desire to end,  
+An ataraxic failure,  
 
 <!-- block -->
 
@@ -87,18 +105,7 @@ And it was just a full fledged drive for annihilation.
 I just knew my life would be a wreck by then,  
 Already.  
 
-
 <!-- block -->
-
-I don’t know what I can stand less  
-Between hauntology as a concept and as an existential regime,  
-But I think about it a lot,  
-I cannot stand the look of you  
-Nor could I stand your look if I you ever crossed mine,  
-I think about it a lot,  
-
-<!-- block -->
-
 I can’t stand all the hyperplane separation theorems  
 Because their construction is too beautiful or I don’t want to be absolutely separated from any other convex body  
 But I think it’s mostly something about the concept of dual spaces,  
@@ -109,7 +116,7 @@ To me.
 
 <!-- block -->
 
-Sirens,  
+Sirens also,  
 The trans-sexuality of a fish-woman,  
 The oceanicness of what she sings.  
 The oceanic sentiment  
@@ -123,14 +130,15 @@ And this is a metaphysical not a sociological critique.
 
 <!-- block -->
 
-I can’t stand Liza Minelli’s eyes,  
-And all the artificial paradises,  
+I can’t stand Liza Minelli’s eyes,
+Or Shelley Duvall's  
+And all the artificial paradises anyway,  
 Fuck knows I can’t stand the sheer amount of sex and death drive fractally intertwined  
-In Rowland S Howard’s entire discography,  
+In Rowland S Howard’s entire discography. 
 
 <!-- block -->
 
-(Rowland S Howards typically looks like one of those aforementioned fashion twinks)  
+(Rowland S Howards typically looking like one of those aforementioned fashion twinks)  
 It’s probably because I don’t know any girl called Johnny  
 Turning all the boys into girls  
 Or the other way around  
@@ -161,7 +169,6 @@ So the reason why I can before all not stand all the Hedi people is because
 Their skeletal sex-appeal embodies this intertwining the most.  
 
 <!-- block -->
-
 I can’t stand the mineral-becoming,  
 The becoming-a-mineral,  
 The perfect stillness of it.  
@@ -173,7 +180,7 @@ Something make me really depressed about them,
 I think it's the recursion of fame and party  
 Folding back on one another,  
 I cannot stand their circular mythology,  
-Their self-sucking hagiography  
+Their self-sucking hagiography,  
 I am so fucking done for.  
 
 <!-- block -->
@@ -183,6 +190,14 @@ And the totalised aesthetic fuckery it has all become
 Or ever was really  
 Because the rest of everything is so fucking petit bourgeois and ugly  
 And this is a metaphysical not a sociological critique.  
+
+<!-- block -->
+
+I can't stand the denim fabric's  
+Contact with my cock.  
+In paradise everyone only wears Jeans  
+With their pubis showing  
+Like in those Cavin Klein publicities.  
 
 <!-- block -->
 
@@ -196,7 +211,7 @@ In *Marienbad*’s glam-phantomality.
 The signifier *femme*,  
 Both as a visual and as an acoustic footprint.  
 Is the signifier always femme?  
-The type of corny shit you’d read in *Cool Memories*…  
+The type of corny shit you could read in *Cool Memories*…  
 
 <!-- block -->
 
@@ -227,30 +242,39 @@ I wish they were talking to me.
 *The Venus in Fur*,  
 The Make-up,  
 The distance in your attitude,  
-*The Piano Teacher*.  
-Fucking hell…  
+*The Piano Teacher*,  
+The grand aesthetic orgy. 
 
 
 <!-- block -->
 
-I can’t stand the orgy  
+I can’t stand the orgy.
 What is anyone doing after the orgy anyway?  
 It has to come to an end at some point or it never even started really.  
 It was all a fraud…  
 
 <!-- block -->
 
-I can’t stand the becoming-urban  
+I can’t stand the *becoming-urban*  
 Drawn in Aluminium lines of flight,  
-In glass panel self-confirming prophecies…  
+In diagonal sequences of sequences,
+In glass panel self-confirming prophecies.
+It keeps expending all around,
 
 <!-- block -->
 
 I can’t stand fashion as a concept, and curating altogether…  
 It’s so hard to assemble something that feels relevant  
-And I already fell exhausted by the simple thought of all the fractal details that add to one another in the composition of any perfect beauty,  
-That is of the quasi-divine,  
-I am so fucking done for/with any kind of semio-erotic litteracy.  
+And I already fell exhausted by the simple thought of all the fractal details that add to one another in the composition of any perfect beauty.
+
+<!-- block -->
+
+I am so fucking done for/with any kind of semio-erotic litteracy...  
+Because that's what its all about,  
+Proficiency with signs,  
+Overcoding all the fucking field  
+Until it cannot hold any more *sexy*.   
+And looking hot, as well  
 
 <!-- block -->
 
@@ -260,13 +284,14 @@ I am so fucking done for
 And I could not stand it.  
 
 <!-- block -->
-
 I can’t stand the ice-cold stainless steel blueishness  
 Of English language,  
 I barely tried though...  
 
 <!-- block -->
 
+Béatrice Dalle and Jean-Hugue Anglade
+Make me so fucking done for,  
 I remember being inside you  
 Or the other way around for it matters  
 And I cannot stand such a memory  
@@ -278,13 +303,14 @@ Ffs.
 
 Visage’s *devenir-gris* is intolerable,  
 Really,  
+And Catherine Deneuve.  
 I cannot stand anything ternary.  
 
 <!-- block -->
 
 I went to the cinema yesterday  
 And I couldn’t stand *Black Swan* because ballet is too beautiful and expensive for one not to feel excluded by it  
-And this is a metaphysical not a sociological critique.
+And this is a metaphysical not a sociological critique.  
 
 <!-- block -->
 
@@ -302,8 +328,10 @@ That’s approximately how I feel.
 <!-- block -->
 
 *Heroin chic* was called this way  
-Because they knew I'd be so fucking hooked to it. 
-There is something in me that cannot be *fixed*,
+Because they knew I and everyone'd be so fucking hooked to it.  
+I am so fucking done for,  
+I need my fix  ,
+There is something in me that cannot be fixed.  
 The sublime is never enough  
 Like it could not stand itself either,  
 
@@ -319,7 +347,7 @@ In the epsilon intimacy.
 I can’t stand *Night Porter*, that’s once again the dealing with both sex and death drives,  
 I can’t stand Death in Vegas,  
 Because the name reminds me of the *Suicide Motel* I think,  
-And *Hands Around My Throat* has something too sexy.  
+And *Hands Around My Throat* has something too sexy. 
 
 <!-- block -->
 
@@ -337,7 +365,6 @@ And objective irony.
 <!-- block -->
 
 I can’t stand the night,  
-I am so fucking done for,  
 And Mako Midori in *Blind Beast*.  
 Cybernetics, also,  
 that’s because it makes me think  
@@ -348,14 +375,14 @@ I don’t know.
 
 I don’t know if I can’t stand the flat screen because of all the images it displays  
 Or all the images because they are displayed on the (ideally) perfect flatness of the screen  
-And I can’t stand the ever flowing display when I scroll across beauty. 
+And I can’t stand the ever flowing display when I scroll across beauty.   
 
 <!-- block -->
 
 The self-refraction of the image in the serie is so fucking unsupportable  
 So I myself can’t stand it in ever repeating echoes,  
-Of me not being able to stand it,
-That's a fixed point baby.
+Of me not being able to stand it,  
+That's a fixed point baby.  
 
 <!-- block -->
 
@@ -425,7 +452,8 @@ What can I do.
 <!-- block -->
 
 I can't stand the acid fragrance of semen,  
-It's opaque genuineness,
+Its irnoganic transparence,  
+Its metalic alterity,   
 I don't really know,  
 
 <!-- block -->
@@ -452,6 +480,7 @@ Brothel in Belize, Crystal Castles, The Hellp,
 Deleuze on the suicide of Primo Levi,  
 And the reflect of Claire Parnet in the Mirror,  
 And her voice,  
+I am so fucking done for  
 Kate Moss,  
 Virtuality.  
 
@@ -463,7 +492,13 @@ Because in *Inflammatory Essays* she wants to put young good-looking girls behin
 
 <!-- block -->
 
-Somehow The Cramps,  
+*Gonzo journalism*,  
+*Gonzo porn*,  
+*Gonzo everything* anyway,  
+Fuck it. 
+
+<!-- block -->
+
 The Talmud’s hypertextuality,  
 Any form of cyber-sexuality.  
 
@@ -478,6 +513,7 @@ I am so fucking horny.
 <!-- block -->
 
 I am so fucking done for,  
+I am so fucking drenched in lust  
 I cannot stand the curvature in Iggy pop stance,  
 That has something eerie, and suggestive and nefarious  
 Like probably was Oedipus’s limping for Thebes  
@@ -517,6 +553,8 @@ Like they were some inverted skin.
 <!-- block -->
 
 I can’t stand the injunction to relevance,  
+Fucking *Vice magazine*,  
+Can suck my cock.  
 I can’t stand Laurie Anderson  
 Because Michel Reis is touching herself through the fabric of her robe against a jukebox  
 And Christopher Doyle is doing the cinematography.  
@@ -555,7 +593,7 @@ I can’t stand thermic cameras displaying the lukewarm enveloppe of anonymous b
 <!-- block -->
 
 I lost my religion,  
-I can’t stand *Losing My Religion*  
+I can’t stand *Losing My Religion*,
 And the cartesian idea of the never reached negative infinite.  
 I can’t stand the cultural crystalisation of the feminine  
 Of course I don’t,  
