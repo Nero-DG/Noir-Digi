@@ -404,6 +404,15 @@ But that’s corny.
 
 <!-- block -->
 
+It's a traumatic kernel  
+A blind and invisible wound  
+That is profoundly anchored,
+And *encored*.
+I am so fucking done for,
+I don't know what to do with it.
+
+<!-- block -->
+
 I am so fucking done for,  
 So fucking mesmerised,  
 Most of the time I want to see society disappears in a terrorist attack  
