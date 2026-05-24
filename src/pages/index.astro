@@ -5,6 +5,10 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 const poems = (await getCollection('poems')).sort(
   (a, b) => b.data.date.valueOf() - a.data.date.valueOf(),
 );
+
+const base = import.meta.env.BASE_URL.endsWith('/')
+  ? import.meta.env.BASE_URL
+  : `${import.meta.env.BASE_URL}/`;
 ---
 
 <BaseLayout title="Noir-digi" tone="main">
@@ -12,7 +16,7 @@ const poems = (await getCollection('poems')).sort(
     <nav class="poem-index" aria-label="Poems">
       {
         poems.map((poem) => (
-          <a href={`/poems/${poem.slug}/`}>
+          <a href={`${base}poems/${poem.slug}/`}>
             <span>{poem.data.title}</span>
           </a>
         ))
