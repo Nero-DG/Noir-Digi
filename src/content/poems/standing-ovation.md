@@ -301,16 +301,18 @@ That’s approximately how I feel.
 
 <!-- block -->
 
-*Heroin chic* is called this way  
-Because I am so fucking hooked to it,  
+*Heroin chic* was called this way  
+Because they knew I'd be so fucking hooked to it. 
+There is something in me that cannot be *fixed*,
 The sublime is never enough  
 Like it could not stand itself either,  
+
 
 <!-- block -->
 
 I cannot stand the geometric intuition in the concept of asymptotic tangency  
 Because of the infinitesimal, irresolvable distance it implies between our skins  
-My lover, my baby.  
+In the epsilon intimacy.  
 
 <!-- block -->
 
