@@ -648,10 +648,10 @@ I embrace my *becoming-a-text*,
 My *becoming-an-image*,  
 My *becoming-a-symbol*.  
 I will soon transform into a bidimensional archive,  
-I crystallise my saline alienness  
-On the immanence plane.  
-I am a text-idol.  
-I am the mirror.  
+I crystallise my saline alienness,  
+I dissolve it  
+On the immanence plane. 
+I am a now text-idol, 
 
 <!-- block -->
 I am so fucking done for,  
