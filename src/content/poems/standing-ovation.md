@@ -168,6 +168,16 @@ The perfect stillness of it.
 
 <!-- block -->
 
+The Cobra snake's party shoots, indie sleeze,  
+Something make me really depressed about them,  
+I think it's the recursion of fame and party  
+Folding back on one another,  
+I cannot stand their circular mythology,  
+Their self-sucking hagiography  
+I am so fucking done for.  
+
+<!-- block -->
+
 I can’t stand all the shining lingerie and perfume billboards everywhere  
 And the totalised aesthetic fuckery it has all become  
 Or ever was really  
@@ -193,15 +203,6 @@ The type of corny shit you’d read in *Cool Memories*…
 Kafka’s main characters are always making love from room to room,  
 Inside-out in non-riemanian topologies,  
 What are they complaining so much about?  
-
-<!-- block -->
-
-Cobra snake party shoots, indie sleeze,  
-Something make me really depressed about it,  
-I think it's the recursion of style and party  
-Folding back on one another,  
-I cannot stand their circularity,  
-I am so fucking done for.
 
 <!-- block -->
 
