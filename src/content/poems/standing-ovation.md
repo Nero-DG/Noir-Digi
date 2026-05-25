@@ -35,8 +35,8 @@ And double-bound that is sandwich-fucked us,
 So now I am fucking depressed  
 By its alien inaccessible beauty. <!-- block --> I can’t stand the image,  
 The idolatry it inspires in me.  
-I can't stand the differ*a*nce between tissue and skin  
-Worn by half-naked bodies.  
+I can't stand the differ*a*nce between the fabric and the skin  
+Worn by half-naked bodies.   
 
 <!-- block -->
 
