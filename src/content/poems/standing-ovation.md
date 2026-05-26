@@ -290,7 +290,7 @@ I barely tried though...
 
 <!-- block -->
 
-Béatrice Dalle and Jean-Hugue Anglade
+Béatrice Dalle and Jean-Hugue Anglade  
 Make me so fucking done for,  
 I remember being inside you  
 Or the other way around for it matters  
@@ -405,11 +405,11 @@ But that’s corny.
 <!-- block -->
 
 It's a traumatic kernel  
-A blind and invisible wound  
-That is profoundly anchored,
-And *encored*.
-I am so fucking done for,
-I don't know what to do with it.
+A blind and invisible wound   
+That is profoundly anchored,  
+And *encored*.  
+I am so fucking done for,  
+I don't know what to do with it.  
 
 <!-- block -->
 
