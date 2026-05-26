@@ -248,7 +248,7 @@ The grand aesthetic orgy.
 
 <!-- block -->
 
-I can’t stand the orgy.
+I can’t stand the orgy.  
 What is anyone doing after the orgy anyway?  
 It has to come to an end at some point or it never even started really.  
 It was all a fraud…  
@@ -257,9 +257,9 @@ It was all a fraud…
 
 I can’t stand the *becoming-urban*  
 Drawn in Aluminium lines of flight,  
-In diagonal sequences of sequences,
-In glass panel self-confirming prophecies.
-It keeps expending all around,
+In diagonal sequences of sequences, 
+In glass panel self-confirming prophecies.  
+It keeps expending all around,  
 
 <!-- block -->
 
