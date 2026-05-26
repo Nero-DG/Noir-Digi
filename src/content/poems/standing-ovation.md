@@ -90,7 +90,7 @@ I can’t stand Ka-tzenik *House of Dolls*,
 I can’t stand John Giorno’s *Johnny Guitar*,  
 Nor Jeanne Balibar’s cover of *Johnny Guitar*  
 By Peggy Lee  
-Which have little to do with one another, 
+Which have little to do with one another.  
 Or maybe?   
 
 I can’t stand Megumi Satsu being exterminated in the *Suicide Motel*,  
