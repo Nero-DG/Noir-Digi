@@ -10,7 +10,7 @@ I can’t stand your silhouette,
 I can’t stand high heels.  
 I can’t stand the overall seductive magnetism that’s going to finally entirely drain me out,  
 The ambient diffuse regime of air-conditioned pornography  
-Aesthetised beyond reprocity.  
+Aesthetised beyond reciprocity.  
 
 <!-- block -->
 
@@ -25,7 +25,7 @@ In the face of it.
 In the face of the Other  
 In the face of the Inother  
 That’s virtually no one but an infinite limit,  
-An hopeless horizon…  
+A hopeless horizon…  
 
 <!-- block -->
 
@@ -91,7 +91,7 @@ I can’t stand John Giorno’s *Johnny Guitar*,
 Nor Jeanne Balibar’s cover of *Johnny Guitar*  
 By Peggy Lee  
 Which have little to do with one another, 
-Or maybe?  
+Or maybe?   
 
 I can’t stand Megumi Satsu being exterminated in the *Suicide Motel*,  
 I had been dreaming of a suicide motel as well,  
@@ -274,7 +274,7 @@ Because that's what its all about,
 Proficiency with signs,  
 Overcoding all the fucking field  
 Until it cannot hold any more *sexy*.   
-And looking hot, as well  
+And looking hot, as well,  
 
 <!-- block -->
 
