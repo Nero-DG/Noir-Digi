@@ -235,7 +235,7 @@ And to be fair, the luminescent display of anything.
 
 Kirsty Hume is everything I cannot stand  
 And so is Stella Tenant,  
-I can’t stand the sampled voices in Burial *Archangel*  
+I can’t stand the sampled voices in Burial's *Archangel*  
 I wish they were talking to me.  
 
 <!-- block -->
@@ -258,7 +258,7 @@ It was all a fraud…
 
 I can’t stand the *becoming-urban*  
 Drawn in Aluminium lines of flight,  
-In diagonal sequences of sequences, 
+In diagonal sequences of sequences,  
 In glass panel self-confirming prophecies.  
 It keeps expending all around,  
 
@@ -331,11 +331,13 @@ That’s approximately how I feel.
 *Heroin chic* was called this way  
 Because they knew I and everyone'd be so fucking hooked to it.  
 I am so fucking done for,  
-I need my fix  ,
+I need my fix.  
 There is something in me that cannot be fixed.  
+
+<!-- block -->
+
 The sublime is never enough  
 Like it could not stand itself either,  
-
 
 <!-- block -->
 
