@@ -160,7 +160,7 @@ The maxmin fatal strategy.
 The horizon expands all around the plastic night  
 Fuck knows that even mean….  
 I have now reached terminal zero of the great whatever :  
-The cristallisation of meaning intensifies but only outside,  
+The crystallisation of meaning intensifies but only outside,  
 It is becoming more alien every hour,  
 I feel paradoxically connected to it.  
 It’s the average extinction,  
