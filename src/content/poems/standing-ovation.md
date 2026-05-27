@@ -90,15 +90,15 @@ I can’t stand Ka-tzenik *House of Dolls*,
 I can’t stand John Giorno’s *Johnny Guitar*,  
 Nor Jeanne Balibar’s cover of *Johnny Guitar*  
 By Peggy Lee  
-Which have little to do with one another.  
-Or maybe?   
+Which have little to do with one another. Or maybe?   
+
+<!-- block -->
 
 I can’t stand Megumi Satsu being exterminated in the *Suicide Motel*,  
 I had been dreaming of a suicide motel as well,  
 A terminal facility for desire to end,  
 An ataraxic failure,  
 
-<!-- block -->
 
 I can’t stand Eva Green in *The Dreamers*  
 And it was just a full fledged drive for annihilation.  
