@@ -91,7 +91,8 @@ I can’t stand Ka-tzenik *House of Dolls*,
 I can’t stand John Giorno’s *Johnny Guitar*,  
 Nor Jeanne Balibar’s cover of *Johnny Guitar*  
 By Peggy Lee  
-Which have little to do with one another. Or maybe?   
+Which have little to do with one another.  
+Or maybe?   
 
 <!-- block -->
 
@@ -100,6 +101,7 @@ I had been dreaming of a suicide motel as well,
 A terminal facility for desire to end,  
 An ataraxic failure,  
 
+<!-- block -->
 
 I can’t stand Eva Green in *The Dreamers*  
 And it was just a full fledged drive for annihilation.  
@@ -107,8 +109,13 @@ I just knew my life would be a wreck by then,
 Already.  
 
 <!-- block -->
+
 I can’t stand all the hyperplane separation theorems  
-Because their construction is too beautiful or I don’t want to be absolutely separated from any other convex body  
+Because their construction is too beautiful or  
+I don’t want to be absolutely separated from any other convex body.  
+
+<!-- block -->
+
 But I think it’s mostly something about the concept of dual spaces,  
 It has a formal elegance,  
 The idea of two abstract machines ready to fuck  
@@ -127,6 +134,7 @@ Of atrophied eternity.
 
 
 I can’t stand Cannes,  
+Fucking hell,  
 And this is a metaphysical not a sociological critique.  
 
 <!-- block -->
@@ -134,6 +142,9 @@ And this is a metaphysical not a sociological critique.
 I can’t stand Liza Minelli’s eyes,  
 Or Shelley Duvall's  
 And all the artificial paradises anyway,  
+
+<!-- block -->
+
 Fuck knows I can’t stand the sheer amount of sex and death drive fractally intertwined  
 In Rowland S Howard’s entire discography. 
 
@@ -172,7 +183,7 @@ Their skeletal sex-appeal embodies this intertwining the most.
 <!-- block -->
 I can’t stand the mineral-becoming,  
 The becoming-a-mineral,  
-The perfect stillness of it.  
+The perfect stillness of it...  
 
 <!-- block -->
 
@@ -244,7 +255,7 @@ I wish they were talking to me.
 The Make-up,  
 The distance in your attitude,  
 *The Piano Teacher*,  
-The grand aesthetic orgy. 
+The grand aesthetic orgy.  
 
 
 <!-- block -->
@@ -263,10 +274,12 @@ In glass panel self-confirming prophecies.
 It keeps expending all around,  
 
 <!-- block -->
-
+I can't stand YSL  
+Screaming at me  
+You're Such a Loser  
 I can’t stand fashion as a concept, and curating altogether…  
 It’s so hard to assemble something that feels relevant  
-And I already fell exhausted by the simple thought of all the fractal details that add to one another in the composition of any perfect beauty.
+And I already fell exhausted by the simple thought of all the fractal details that add to one another in the composition of any perfect beauty.  
 
 <!-- block -->
 
@@ -293,6 +306,7 @@ I barely tried though...
 
 Béatrice Dalle and Jean-Hugue Anglade  
 Make me so fucking done for,  
+And lonely.  
 I remember being inside you  
 Or the other way around for it matters  
 And I cannot stand such a memory  
@@ -304,7 +318,8 @@ Ffs.
 
 Visage’s *devenir-gris* is intolerable,  
 Really,  
-And Catherine Deneuve.  
+And Catherine Deneuve,  
+Everything needed to be so glamour ofc,  
 I cannot stand anything ternary.  
 
 <!-- block -->
@@ -338,6 +353,8 @@ There is something in me that cannot be fixed.
 
 The sublime is never enough  
 Like it could not stand itself either,  
+Everything all around is also so fucking done for,  
+It cannot stand its own perfect plasticity.  
 
 <!-- block -->
 
@@ -350,7 +367,7 @@ In the epsilon intimacy.
 I can’t stand *Night Porter*, that’s once again the dealing with both sex and death drives,  
 I can’t stand Death in Vegas,  
 Because the name reminds me of the *Suicide Motel* I think,  
-And *Hands Around My Throat* has something too sexy. 
+And *Hands Around My Throat* has something too sexy.  
 
 <!-- block -->
 
@@ -507,7 +524,7 @@ Because in *Inflammatory Essays* she wants to put young good-looking girls behin
 *Gonzo journalism*,  
 *Gonzo porn*,  
 *Gonzo everything* anyway,  
-Fuck it. 
+Fuck it.  
 
 <!-- block -->
 
@@ -525,7 +542,7 @@ I am so fucking horny.
 <!-- block -->
 
 I am so fucking done for,  
-I am so fucking drenched in lust  
+I am so fucking drenched in lust,  
 I cannot stand the curvature in Iggy pop stance,  
 That has something eerie, and suggestive and nefarious  
 Like probably was Oedipus’s limping for Thebes  
@@ -558,7 +575,6 @@ Like they were some inverted skin.
 
 <!-- block -->
   
-
 […]  
   
 
@@ -610,7 +626,7 @@ And the cartesian idea of the never reached negative infinite.
 I can’t stand the cultural crystalisation of the feminine  
 Of course I don’t,  
 I am so fucking done for  
-The plasticity of your skin.  
+The silkness of your skin.  
 That’s to summarise basically.  
 
 <!-- block -->
@@ -618,6 +634,7 @@ That’s to summarise basically.
 I can’t stand my own poetry most of the time when I read it  
 But that’s a good sign,  
 I feel.  
+Your cristaline absence,  
 I feel so fucking done for,  
 I can’t stand the qui-perd-gagne,  
 The seduction in loss,  
@@ -628,7 +645,7 @@ I somehow reached it.
 
 In sublimation  
 Of course there has to be a drive to the sublime,  
-That is a constitutive lack.  
+That is a constitutive lack,  
 Everything is so distant,  
 Fading away,  
 Or at least I am,  
