@@ -383,7 +383,9 @@ The androgynous sent of CDG Series 4,
 Ladytron’s *Seventeen*,  
 And objective irony.  
 
+
 <!-- block -->
+
 
 I can’t stand the night,  
 And Mako Midori in *Blind Beast*.  
@@ -450,6 +452,14 @@ There is just something about them
 That makes them different,  
 Maybe it is their literal oddness,  
 I could do with the 80s mostly, if not for the earlier works of Bret Easton Ellis and the Cure’s *Pornography*.  
+
+<!-- block -->
+
+I probably want to fuck everything al' around,  
+Or buy it or waste it,  
+But mostly fuck it probably  
+And really I can't fucking stand it,  
+I probably could not stand fucking it either....
 
 <!-- block -->
 
