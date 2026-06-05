@@ -365,6 +365,7 @@ In the epsilon intimacy.
 <!-- block -->
 
 I can’t stand *Night Porter*, that’s once again the dealing with both sex and death drives,  
+Fucking Jean-Baptiste Mondino,  
 I can’t stand Death in Vegas,  
 Because the name reminds me of the *Suicide Motel* I think,  
 And *Hands Around My Throat* has something too sexy.  
