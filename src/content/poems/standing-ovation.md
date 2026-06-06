@@ -207,7 +207,8 @@ And this is a metaphysical not a sociological critique.
 
 I can't stand the denim fabric's  
 Contact with my cock.  
-In paradise everyone only wears Jeans  
+In paradise   
+Everyone only wears Jeans  
 With their pubis showing  
 Like in those Cavin Klein publicities.  
 
@@ -260,7 +261,7 @@ The grand aesthetic orgy.
 
 <!-- block -->
 
-I can’t stand the orgy.  
+I can’t fucking stand the orgy...  
 What is anyone doing after the orgy anyway?  
 It has to come to an end at some point or it never even started really.  
 It was all a fraud…  
@@ -276,31 +277,32 @@ It keeps expending all around,
 <!-- block -->
 I can't stand YSL  
 Screaming at me  
-You're Such a Loser  
+You're Such a Loser,  
 I can’t stand fashion as a concept, and curating altogether…  
 It’s so hard to assemble something that feels relevant  
 And I already fell exhausted by the simple thought of all the fractal details that add to one another in the composition of any perfect beauty.  
 
 <!-- block -->
 
-I am so fucking done for/with any kind of semio-erotic litteracy...  
-Because that's what its all about,  
+Really I am so fucking done for/with any kind of semio-erotic litteracy...  
+Because that's what it's all about :  
 Proficiency with signs,  
 Overcoding all the fucking field  
 Until it cannot hold any more *sexy*.   
-And looking hot, as well,  
+And looking hot, as well.  
 
 <!-- block -->
 
 I contemplated suicide,  
-But I did not really suit its style,  
-I am so fucking done for  
-And I could not stand it.  
+But I did not really suit its style,
+I was too fucking done for and  
+I could not stand it.  
 
 <!-- block -->
 I can’t stand the ice-cold stainless steel blueishness  
 Of English language,  
 I barely tried though...  
+Fuck it.  
 
 <!-- block -->
 
@@ -316,6 +318,7 @@ Ffs.
 
 <!-- block -->
 
+I can't stand fucking what else,  
 Visage’s *devenir-gris* is intolerable,  
 Really,  
 And Catherine Deneuve,  
@@ -339,12 +342,14 @@ Because I can’t stand Monica Bellucci as the ultimate impossible challenge in 
 
 The unbearable is an asymmetry,  
 Just like the primal people infinitely indebted in respect to their gods,  
-That’s approximately how I feel.  
+That’s approximately how I feel
+I can't stand it anymore.  
 
 <!-- block -->
 
 *Heroin chic* was called this way  
-Because they knew I and everyone'd be so fucking hooked to it.  
+Because they knew I and everyone'd be so fucking hooked to it  
+And that's a fixed point,  
 I am so fucking done for,  
 I need my fix.  
 There is something in me that cannot be fixed.  
@@ -354,7 +359,14 @@ There is something in me that cannot be fixed.
 The sublime is never enough  
 Like it could not stand itself either,  
 Everything all around is also so fucking done for,  
-It cannot stand its own perfect plasticity.  
+Not being able to stand its own perfect plasticity.  
+
+<!-- block -->
+
+John Cooper Clarke,  
+I can't stand him,  
+I bloody can't
+Or any poetry or anything punk,  
 
 <!-- block -->
 
@@ -378,6 +390,7 @@ The various-fold cunning of language,
 The infinity in your legs,  
 Cut-ups,  
 Bondage,  
+Bass guitars,  
 The taste of Coca-cola,  
 The androgynous sent of CDG Series 4,  
 Ladytron’s *Seventeen*,  
@@ -416,7 +429,7 @@ And this is a metaphysical not a sociological critique.
 
 <!-- block -->
 
-I can’t stand all the foutre du capital  
+I can’t stand all the *foutre du capital*  
 That’s come everywhere,  
 Massive Attack/Tricky/Portishead,  
 Bataille’s *Eroticism*  
@@ -455,11 +468,11 @@ I could do with the 80s mostly, if not for the earlier works of Bret Easton Elli
 
 <!-- block -->
 
-I probably want to fuck everything al' around,  
+I probably want to fuck everything all around,  
 Or buy it or waste it,  
 But mostly fuck it probably  
-And really I can't fucking stand it,  
-I probably could not stand fucking it either....
+And really I can't fucking stand it,    
+I probably could not stand fucking it either....  
 
 <!-- block -->
 
@@ -473,7 +486,7 @@ And this is a metaphysical not a sociological critique.
 I can’t stand any form of lubrification,  
 I would probably fuck *Zorn’s Lemma* if I could,  
 (Unrelated)  
-I can’t stand anything about the perfect construction in the build up of *Sixteen Days / This Gathering Dust*  
+I can’t stand anything about the perfect construction in the build-up of *Sixteen Days / This Gathering Dust*  
 And that’s why I always come back to it when despaired,  
 I can’t stand *The Shrouds* though I have mentioned both Cronenberg and Cassel already…  
 
@@ -495,6 +508,7 @@ I can't stand the acid fragrance of semen,
 Its irnoganic transparence,  
 Its metalic alterity,   
 I don't really know,  
+I really don't know.  
 
 <!-- block -->
 
@@ -516,7 +530,7 @@ They tricked me in the symbolic exchange,
 They never gave it  
 Back to me. <!-- block --> I can’t stand the memory of you  
 And the lonely presence of me,  
-Brothel in Belize, Crystal Castles, The Hellp,  
+Brothel in Belize, Crystal Castles, The Hellp, Julian Casablancas,  
 Deleuze on the suicide of Primo Levi,  
 And the reflect of Claire Parnet in the Mirror,  
 And her voice,  
@@ -526,7 +540,7 @@ Virtuality.
 
 <!-- block -->
 
-I can’t stand most of Daniel Darc’s stuff,  
+I can’t stand Daniel Darc’s ambiguity,  
 I can’t stand Jenny Holtzer  
 Because in *Inflammatory Essays* she wants to put young good-looking girls behind 2-way mirrors so they touch themselves for everyone to go crazy.  
 
@@ -554,7 +568,7 @@ I am so fucking horny.
 
 I am so fucking done for,  
 I am so fucking drenched in lust,  
-I cannot stand the curvature in Iggy pop stance,  
+I cannot stand the curvature in Iggy pop stance  
 That has something eerie, and suggestive and nefarious  
 Like probably was Oedipus’s limping for Thebes  
 And by the way I just pissed in the sink  
@@ -568,6 +582,13 @@ And UK.
 I can’t stand reference,  
 Let alone (the obsessive dream of)  
 Self-referientiality.  
+
+<!-- block -->
+
+What else, what's next?  
+I am almost done,  
+I think.  
+I am almost so fucking done for,  
 
 <!-- block -->
 
@@ -592,8 +613,9 @@ Like they were some inverted skin.
 <!-- block -->
 
 I can’t stand the injunction to relevance,  
-Fucking *Vice magazine*,  
-Can suck my cock.  
+Fucking *Vice magazine*  
+Can suck my cock,   
+This is a metaphisical not a sociological critique,  
 I can’t stand Laurie Anderson  
 Because Michel Reis is touching herself through the fabric of her robe against a jukebox  
 And Christopher Doyle is doing the cinematography.  
@@ -632,7 +654,7 @@ I can’t stand thermic cameras displaying the lukewarm enveloppe of anonymous b
 <!-- block -->
 
 I lost my religion,  
-I can’t stand *Losing My Religion*,
+I can’t stand *Losing My Religion*,  
 And the cartesian idea of the never reached negative infinite.  
 I can’t stand the cultural crystalisation of the feminine  
 Of course I don’t,  
@@ -645,7 +667,7 @@ That’s to summarise basically.
 I can’t stand my own poetry most of the time when I read it  
 But that’s a good sign,  
 I feel.  
-Your cristaline absence,  
+Your cristaline distance,  
 I feel so fucking done for,  
 I can’t stand the qui-perd-gagne,  
 The seduction in loss,  
