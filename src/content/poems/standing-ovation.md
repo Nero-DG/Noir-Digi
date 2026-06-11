@@ -275,6 +275,7 @@ In glass panel self-confirming prophecies.
 It keeps expending all around,  
 
 <!-- block -->
+
 I can't stand YSL  
 Screaming at me  
 You're Such a Loser,  
@@ -318,7 +319,7 @@ Ffs.
 
 <!-- block -->
 
-I can't stand fucking what else,  
+I can't stand fucking what else...  
 Visage’s *devenir-gris* is intolerable,  
 Really,  
 And Catherine Deneuve,  
@@ -492,6 +493,13 @@ I can’t stand *The Shrouds* though I have mentioned both Cronenberg and Cassel
 
 <!-- block -->
 
+Chris Von Wangenheim  
+Menacing and clinical porno-chic,  
+Ofc he knew I'd be a fucking voyeur.  
+Fuck him, I can't stand him.  
+
+<!-- block -->
+
 You would not get it but I cannot stand Jean-Louis Murat’s  
 Sensual mysticism and its subtle electronic ambivalence,  
 When I am faced with *Dolores* there is just a pain in me.  
@@ -516,7 +524,8 @@ Fuck any fashion editorial,
 I can’t stand,  
 They fucked me so bad,  
 I am so fucking done for,  
-I should have fucked them before they fucked me.  
+I should have fucked them way before,    
+Way before they'd fucked me.  
 
 <!-- block -->
 
