@@ -3,6 +3,11 @@ const { title = 'Poetry', tone = 'main' } = Astro.props;
 const base = import.meta.env.BASE_URL.endsWith('/')
   ? import.meta.env.BASE_URL
   : `${import.meta.env.BASE_URL}/`;
+const skins = [
+  { id: 'contact', label: 'Contact Sheet' },
+  { id: 'xerox', label: 'Heroin Chic Xerox' },
+  { id: 'motel', label: 'Flash Motel' },
+];
 ---
 
 <!doctype html>
@@ -12,6 +17,13 @@ const base = import.meta.env.BASE_URL.endsWith('/')
     <meta name="viewport" content="width=device-width" />
     <meta name="generator" content={Astro.generator} />
     <title>{title}</title>
+    <script is:inline>
+      const savedSkin = localStorage.getItem('noir-digi-skin');
+      const urlSkin = new URLSearchParams(window.location.search).get('skin');
+      const skin = urlSkin || savedSkin || 'contact';
+      document.documentElement.dataset.skin = skin;
+      localStorage.setItem('noir-digi-skin', skin);
+    </script>
     <link rel="icon" type="image/png" href={`${base}favicon.png?v=dg-3`} sizes="64x64" />
     <link rel="icon" type="image/svg+xml" href={`${base}favicon.svg?v=dg-3`} />
     <link rel="stylesheet" href={`${base}styles/global.css`} />
@@ -23,6 +35,9 @@ const base = import.meta.env.BASE_URL.endsWith('/')
       <span>I</span><span>G</span>
       <span>R</span><span>I</span>
     </a>
+    <nav class="skin-switcher" aria-label="Visual identity">
+      {skins.map((skin) => <a href={`?skin=${skin.id}`} data-skin-option={skin.id}>{skin.label}</a>)}
+    </nav>
     <slot />
   </body>
 </html>

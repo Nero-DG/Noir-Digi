@@ -111,6 +111,76 @@
   --after-opacity: 0.28;
 }
 
+:root[data-skin="contact"] {
+  --text: rgba(255, 255, 255, 0.9);
+  --muted: rgba(255, 255, 255, 0.46);
+  --faint: rgba(255, 255, 255, 0.18);
+  --rail: rgba(255, 255, 255, 0.3);
+  --body-bg:
+    linear-gradient(90deg, transparent 0 7.8%, rgba(255, 255, 255, 0.2) 7.8% calc(7.8% + 1px), transparent calc(7.8% + 1px) 100%),
+    linear-gradient(90deg, transparent 0 47%, rgba(255, 255, 255, 0.08) 47% calc(47% + 1px), transparent calc(47% + 1px) 100%),
+    linear-gradient(90deg, transparent 0 82%, rgba(255, 255, 255, 0.14) 82% calc(82% + 1px), transparent calc(82% + 1px) 100%),
+    linear-gradient(0deg, transparent 0 12%, rgba(255, 255, 255, 0.1) 12% calc(12% + 1px), transparent calc(12% + 1px) 100%),
+    linear-gradient(0deg, transparent 0 72%, rgba(255, 255, 255, 0.08) 72% calc(72% + 1px), transparent calc(72% + 1px) 100%),
+    repeating-linear-gradient(90deg, transparent 0 7.6rem, rgba(255, 255, 255, 0.025) 7.6rem 7.68rem),
+    repeating-linear-gradient(0deg, transparent 0 5.2rem, rgba(255, 255, 255, 0.018) 5.2rem 5.28rem),
+    radial-gradient(ellipse at 68% 34%, rgba(255, 255, 255, 0.09), transparent 16rem),
+    linear-gradient(180deg, #020202 0%, #000 100%);
+  --tone-wash:
+    linear-gradient(90deg, transparent 0 62%, rgba(255, 255, 255, 0.035) 62% 76%, transparent 76% 100%),
+    radial-gradient(ellipse 18rem 44rem at 70% 48%, rgba(255, 255, 255, 0.035), transparent 65%);
+  --after-bg:
+    repeating-radial-gradient(circle at 50% 50%, rgba(255, 255, 255, 0.038) 0 1px, transparent 1px 3px),
+    repeating-linear-gradient(90deg, rgba(255, 255, 255, 0.018) 0 1px, transparent 1px 12px);
+  --after-opacity: 0.34;
+}
+
+:root[data-skin="xerox"] {
+  --text: rgba(245, 245, 245, 0.9);
+  --muted: rgba(230, 230, 230, 0.48);
+  --faint: rgba(255, 255, 255, 0.12);
+  --rail: rgba(255, 255, 255, 0.18);
+  --body-bg:
+    radial-gradient(ellipse 40rem 18rem at 68% 30%, rgba(255, 255, 255, 0.13), transparent 58%),
+    radial-gradient(ellipse 18rem 38rem at 18% 68%, rgba(255, 255, 255, 0.055), transparent 64%),
+    linear-gradient(98deg, transparent 0 16%, rgba(255, 255, 255, 0.08) 16% 16.3%, transparent 16.3% 100%),
+    linear-gradient(82deg, transparent 0 71%, rgba(255, 255, 255, 0.045) 71% 71.25%, transparent 71.25% 100%),
+    repeating-linear-gradient(0deg, rgba(255, 255, 255, 0.035) 0 1px, transparent 1px 5px),
+    repeating-linear-gradient(90deg, transparent 0 2px, rgba(255, 255, 255, 0.012) 2px 3px),
+    linear-gradient(180deg, #030303 0%, #000 55%, #050505 100%);
+  --tone-wash:
+    radial-gradient(ellipse 28rem 22rem at 52% 45%, rgba(255, 255, 255, 0.055), transparent 62%),
+    linear-gradient(180deg, rgba(255, 255, 255, 0.035), transparent 22%, rgba(255, 255, 255, 0.025) 58%, transparent 100%);
+  --after-bg:
+    repeating-radial-gradient(circle at 48% 45%, rgba(255, 255, 255, 0.055) 0 1px, transparent 1px 2px),
+    repeating-linear-gradient(177deg, rgba(255, 255, 255, 0.04) 0 1px, transparent 1px 8px),
+    repeating-linear-gradient(64deg, rgba(255, 255, 255, 0.022) 0 1px, transparent 1px 13px);
+  --after-opacity: 0.38;
+}
+
+:root[data-skin="motel"] {
+  --text: rgba(255, 255, 255, 0.92);
+  --muted: rgba(255, 255, 255, 0.5);
+  --faint: rgba(255, 255, 255, 0.13);
+  --rail: rgba(255, 255, 255, 0.18);
+  --body-bg:
+    linear-gradient(90deg, transparent 0 55%, rgba(255, 255, 255, 0.16) 55% 55.35%, transparent 55.35% 100%),
+    linear-gradient(0deg, transparent 0 28%, rgba(255, 255, 255, 0.22) 28% 28.45%, transparent 28.45% 100%),
+    radial-gradient(ellipse 24rem 13rem at 61% 29%, rgba(255, 255, 255, 0.32), transparent 58%),
+    radial-gradient(ellipse 20rem 34rem at 84% 64%, rgba(255, 255, 255, 0.075), transparent 62%),
+    radial-gradient(ellipse 16rem 28rem at 18% 76%, rgba(255, 255, 255, 0.045), transparent 62%),
+    repeating-linear-gradient(90deg, transparent 0 4.2rem, rgba(255, 255, 255, 0.018) 4.2rem 4.25rem),
+    linear-gradient(180deg, #010101 0%, #000 100%);
+  --tone-wash:
+    linear-gradient(116deg, transparent 0 54%, rgba(255, 255, 255, 0.08) 54% 66%, transparent 66% 100%),
+    radial-gradient(ellipse 32rem 14rem at 68% 31%, rgba(255, 255, 255, 0.08), transparent 66%);
+  --after-bg:
+    repeating-radial-gradient(circle at 52% 44%, rgba(255, 255, 255, 0.035) 0 1px, transparent 1px 3px),
+    repeating-linear-gradient(90deg, rgba(255, 255, 255, 0.018) 0 1px, transparent 1px 5px),
+    repeating-linear-gradient(0deg, rgba(255, 255, 255, 0.015) 0 1px, transparent 1px 9px);
+  --after-opacity: 0.32;
+}
+
 * {
   box-sizing: border-box;
 }
@@ -198,6 +268,66 @@ a {
 
 :root[data-tone="standing-ovation"] .site-mark {
   color: rgba(255, 255, 255, 0.68);
+}
+
+.skin-switcher {
+  position: fixed;
+  left: clamp(14px, 3vw, 38px);
+  bottom: clamp(14px, 3vw, 34px);
+  z-index: 12;
+  display: grid;
+  gap: 0.35rem;
+  color: rgba(255, 255, 255, 0.4);
+  font-family: var(--font-ui);
+  font-size: clamp(0.66rem, 1vw, 0.78rem);
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  line-height: 1;
+  text-transform: uppercase;
+}
+
+.skin-switcher a {
+  position: relative;
+  width: fit-content;
+  color: inherit;
+  transition:
+    color 180ms ease,
+    transform 220ms ease;
+}
+
+.skin-switcher a::before {
+  content: "";
+  position: absolute;
+  top: 50%;
+  right: calc(100% + 0.45rem);
+  width: 0.65rem;
+  height: 1px;
+  background: currentColor;
+  opacity: 0;
+  transform: translateY(-50%) scaleX(0.2);
+  transform-origin: right center;
+  transition:
+    opacity 180ms ease,
+    transform 220ms ease;
+}
+
+.skin-switcher a:hover,
+.skin-switcher a:focus-visible,
+:root[data-skin="contact"] .skin-switcher [data-skin-option="contact"],
+:root[data-skin="xerox"] .skin-switcher [data-skin-option="xerox"],
+:root[data-skin="motel"] .skin-switcher [data-skin-option="motel"] {
+  color: rgba(255, 255, 255, 0.86);
+  outline: 0;
+  transform: translateX(0.18rem);
+}
+
+.skin-switcher a:hover::before,
+.skin-switcher a:focus-visible::before,
+:root[data-skin="contact"] .skin-switcher [data-skin-option="contact"]::before,
+:root[data-skin="xerox"] .skin-switcher [data-skin-option="xerox"]::before,
+:root[data-skin="motel"] .skin-switcher [data-skin-option="motel"]::before {
+  opacity: 1;
+  transform: translateY(-50%) scaleX(1);
 }
 
 .index-page {
@@ -332,6 +462,13 @@ a {
     z-index: 2;
     color: rgba(255, 255, 255, 0.18);
     font-size: clamp(1.5rem, 10vw, 3rem);
+  }
+
+  .skin-switcher {
+    left: 12px;
+    bottom: 12px;
+    z-index: 3;
+    font-size: 0.62rem;
   }
 
   :root[data-tone="standing-ovation"] .site-mark,
