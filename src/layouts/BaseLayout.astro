@@ -20,13 +20,13 @@ const skins = [
     <script is:inline>
       const savedSkin = localStorage.getItem('noir-digi-skin');
       const urlSkin = new URLSearchParams(window.location.search).get('skin');
-      const skin = urlSkin || savedSkin || 'contact';
+      const skin = urlSkin || savedSkin || 'xerox';
       document.documentElement.dataset.skin = skin;
       localStorage.setItem('noir-digi-skin', skin);
     </script>
     <link rel="icon" type="image/png" href={`${base}favicon.png?v=dg-3`} sizes="64x64" />
     <link rel="icon" type="image/svg+xml" href={`${base}favicon.svg?v=dg-3`} />
-    <link rel="stylesheet" href={`${base}styles/global.css`} />
+    <link rel="stylesheet" href={`${base}styles/global.css?v=skins-1`} />
   </head>
   <body>
     <a class="site-mark" href={base} aria-label="Noir-digi home">
