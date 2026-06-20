@@ -135,21 +135,20 @@ Of atrophied eternity.
 I can’t stand Liza Minelli’s eyes,  
 Or Shelley Duvall's  
 And all the artificial paradises anyway,  
-
 I can’t stand Cannes,  
 Fucking hell,  
 And this is a metaphysical not a sociological critique.  
 
 <!-- block -->
 
-I have became so tired of all the  
+I have become so tired of all the  
 Fucking around.  
 I can't stand it anymore,  
 I am so exhausted,  
 I am so excited,  
 I am drenched in lust...  
 I am a complete wreckage,  
-I am absolute indiosyncracy.  
+I am an absolute idiosyncrasy.  
 
 <!--block -->
 
