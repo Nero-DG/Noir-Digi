@@ -1,3 +1,11 @@
+---
+title: "Phalic cocks proof"
+excerpt: "A poem about proving something without being fucked by phallic cocks"
+date: 2026-06-15
+location: "N3R0 DG"
+---
+
+
 Today I extended a proof  
 From the finite space case   
 To the separable space case  
