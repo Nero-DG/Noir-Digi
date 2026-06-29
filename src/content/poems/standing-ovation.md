@@ -153,12 +153,12 @@ I am an absolute idiosyncrasy.
 <!--block -->
 
 Fuck knows I can’t stand the sheer amount of sex and death drive fractally intertwined  
-In Rowland S Howard’s entire discography. 
+In Rowland S Howard’s entire discography.  
 
 <!-- block -->
 
 (Rowland S Howards typically looking like one of those aforementioned fashion twinks)  
-It’s probably because I don’t know any girl called Johnny  
+It’s probably because I don’t know any girl called Jonny  
 Turning all the boys into girls  
 Or the other way around  
 And I wish I did. <!-- block --> That drive for inversion  
@@ -302,7 +302,7 @@ And looking hot, as well.
 <!-- block -->
 
 I contemplated suicide,  
-But I did not really suit its style,
+But I did not really suit its style,  
 I was too fucking done for and  
 I could not stand it.  
 
@@ -350,7 +350,7 @@ Because I can’t stand Monica Bellucci as the ultimate impossible challenge in 
 
 The unbearable is an asymmetry,  
 Just like the primal people infinitely indebted in respect to their gods,  
-That’s approximately how I feel
+That’s approximately how I feel  
 I can't stand it anymore.  
 
 <!-- block -->
@@ -479,7 +479,7 @@ I could do with the 80s mostly, if not for the earlier works of Bret Easton Elli
 I probably want to fuck everything all around,  
 Or buy it or waste it,  
 But mostly fuck it probably  
-And really I can't fucking stand it,    
+And really I can't fucking stand it,  
 I probably could not stand fucking it either....  
 
 <!-- block -->
@@ -531,7 +531,7 @@ Fuck any fashion editorial,
 I can’t stand,  
 They fucked me so bad,  
 I am so fucking done for,  
-I should have fucked them way before,    
+I should have fucked them way before,  
 Way before they'd fucked me.  
 
 <!-- block -->
@@ -726,6 +726,8 @@ I am a now text-idol,
 I am so fucking done for,  
 I think of you,  
 Thinking of me.  
-
+  
+  
+  
 <!-- block -->
 ___
