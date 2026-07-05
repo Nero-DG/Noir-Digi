@@ -21,7 +21,7 @@ The inorganic circuit of fuck knows what again?
 
 I’m so fucking ultra connected beyond any purpose,  
 Purposes that you would not imagine,  
-That you could not make yourself an image  
+That you could not make yourself an image of  
 Let alone a concept.  
 
 <!-- block -->
