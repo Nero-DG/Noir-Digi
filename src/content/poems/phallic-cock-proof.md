@@ -142,7 +142,12 @@ I was half asleep and so fucking drenched in desire and lust
 I don’t know  
 I am so fucking done for  
 Whatever...  
+
+<!-- block -->
+  
+(Errata : My proof did not work in the end, and the statement itself was false.)
   
   
   
    
+_
