@@ -1,7 +1,7 @@
 ---  
 title: "An absolute statement " 
 excerpt: "I don't know"
-date: 2026-07-15
+date: 2026-07-05
 location: "N3R0 DG"
 ---  
   
