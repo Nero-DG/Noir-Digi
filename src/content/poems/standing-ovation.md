@@ -373,8 +373,9 @@ Not being able to stand its own perfect plasticity.
 
 John Cooper Clarke,  
 I can't stand him,  
-I bloody can't
-Or any poetry or anything punk,  
+I bloody can't  
+Or any poetry or anything punk,
+And Yves Adrien,  
 
 <!-- block -->
 
