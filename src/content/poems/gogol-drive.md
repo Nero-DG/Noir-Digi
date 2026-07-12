@@ -158,8 +158,8 @@ The maxmin fatal strategy.
 <!-- block -->
 
 The horizon expands all around the plastic night  
-Fuck knows that even mean….  
-I have now reached terminal zero of the great whatever :  
+Fuck knows that even means…
+I have now reached terminal zero of the grand whatever :  
 The crystallisation of meaning intensifies but only outside,  
 It is becoming more alien every hour,  
 I feel paradoxically connected to it.  
