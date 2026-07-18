@@ -355,7 +355,7 @@ a {
   max-width: 100%;
   padding-left: clamp(12px, 2vw, 24px);
   color: var(--text);
-  font-size: clamp(2.8rem, 9.5vw, 10rem);
+  font-size: clamp(1.6rem, 5.5vw, 5.8rem);
   font-weight: 800;
   line-height: 0.82;
   letter-spacing: -0.06em;
