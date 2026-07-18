@@ -1,7 +1,7 @@
 ---    
 title: "Litanie pour des litrons de foutres du capital (translated)"   
 excerpt: "I don't know"  
-date: 2026-07-05  
+date: 2026-03-05  
 location: "N3R0 DG"  
 ---    
     
