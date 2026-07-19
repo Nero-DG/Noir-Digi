@@ -195,8 +195,8 @@ The perfect stillness of it...
 <!-- block -->
 
 Anna Mouglalis,  
-as a limit experience of an elegance display,  
-An infra-margin for the outer frontier of the feminine.  
+As limit experience of a display in  _elegance_,  
+as infra-margin for the outer frontier of the feminine.  
 I am terminally fucked,  
 She is somehow projected on my computer.  
 Her apparition is too uneasy of a vision,    
