@@ -92,7 +92,7 @@ I can’t stand John Giorno’s *Johnny Guitar*,
 Nor Jeanne Balibar’s cover of *Johnny Guitar*  
 By Peggy Lee  
 Which have little to do with one another.  
-Or maybe?   
+Or maybe? 
 
 <!-- block -->
 
@@ -194,7 +194,18 @@ The perfect stillness of it...
 
 <!-- block -->
 
-The Cobra snake's party shoots, indie sleeze,  
+Anna Mouglalis,  
+as a limit experience of an elegance display,  
+An infra-margin for the outer frontier of the feminine.  
+I am terminally fucked,  
+She is somehow projected on my computer.  
+Her apparition is too uneasy of a vision,    
+I cannot stand it.  
+
+
+<!-- block -->
+
+I can't stand the Cobra snake's party shoots, indie sleeze,  
 Something make me really depressed about them,  
 I think it's the recursion of fame and party  
 Folding back on one another,  
@@ -373,7 +384,7 @@ Not being able to stand its own perfect plasticity.
 
 John Cooper Clarke,  
 I can't stand him,  
-I bloody can't  
+Bloody can't  
 Or any poetry or anything punk,
 And Yves Adrien,  
 
