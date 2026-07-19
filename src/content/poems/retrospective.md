@@ -79,7 +79,7 @@ You know.
 
 But you were all so very silent,  
 And you are so very silent,  
-Which came problematic to me.  
+I couldn't deal with it.  
 
 <!-- block -->
 
@@ -94,7 +94,7 @@ Seducing through sheer indeterminacy.
 <!-- block -->
 
 Who are you,  
-Mysterious idiosyncratic anonimity?  
+Mysterious and perfect idiosyncratic anonimity?  
 
 <!-- block -->
 
@@ -124,10 +124,10 @@ There is nothing to get out of it mostly.
 
 <!-- block -->
 
-It is logic, or fatal, that you are all so very  
+It is logic or fatal, that you are all so very  
 Reluctant to any opening.  
 Before we really met,  
-I had been in contact with the last true event of meaning.  
+I had already been in contact with the last true zenith event of meaning.  
 
 <!-- block -->
 
@@ -149,10 +149,10 @@ Go queen.
 And I always also felt Foucault would have told you   
 ‘Go queen  
 Keep being silent,  
-This fucker will have you talk   
-To know you to control you!’  
+This fucker wants you to confess   
+To turn against you your own complicity!’  
 Which truely I was on about,  
-An analyst or priest,  
+Like an analyst or a priest,  
 An anal-priest maybe,  
 Eventually.  
 
@@ -164,8 +164,8 @@ Facing the screen,
 And the 6 meters high  
 Projection of a 4 meters high statute  
 A guy had made of the 1meter something philosopher’s  
-Bust  
-Which process they (someone) had filmed.  
+Bust that was probably like 65 centimeters,  
+A process they (someone) had filmed.  
 
 <!-- block -->
 
@@ -181,10 +181,10 @@ Although that’s really corny.
 <!-- block -->
 
 There was a movie with an obviously very French guy´s voice over  
-Reciting some kind of English poetic monologue   
-Upon grainy archival images of the philosopher  
+Reciting some kind of English cryptic monologue   
+Upon grainy archival images of the philosopher giving class  
 That looked like they had been shot by night vision drones  
-And this was a touch of the Sublime,  
+And this was the touch of the sublime,  
 Although that's really corny.  
 
 <!-- block -->
@@ -318,7 +318,7 @@ I’ll leave it to it.
 
 <!-- block -->
 
-Ciao amore.  
+Boh.  
 
 <!-- block -->
 
