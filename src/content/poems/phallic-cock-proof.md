@@ -1,5 +1,5 @@
 ---
-title: "Phalic cocks proof"
+title: "Phallic cocks proof"
 excerpt: "A poem about proving something without being fucked by phallic cocks"
 date: 2026-06-15
 location: "N3R0 DG"
