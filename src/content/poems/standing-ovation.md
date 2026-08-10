@@ -50,6 +50,7 @@ I fucking wasted them already.
 <!-- block -->
 I can’t stand Elisabeth Wiener being a prisoner, probably I can’t…  
 I don't know why I am starting off with that,  
+That's rather weak,  
 I can't stand it.  
 
 
@@ -92,7 +93,7 @@ I can’t stand John Giorno’s *Johnny Guitar*,
 Nor Jeanne Balibar’s cover of *Johnny Guitar*  
 By Peggy Lee  
 Which have little to do with one another.  
-Or maybe? 
+Or maybe?  
 
 <!-- block -->
 
@@ -141,8 +142,15 @@ And this is a metaphysical not a sociological critique.
 
 <!-- block -->
 
+I can't stand Anton Corbijn's  
+Textured neo-noir  
+Post-punk.  
+
+<!-- block -->
+
 I have become so tired of all the  
 Fucking around.  
+And the drool and the spunk  
 I can't stand it anymore,  
 I am so exhausted,  
 I am so excited,  
@@ -734,8 +742,8 @@ My *becoming-a-symbol*.
 I will soon transform into a bidimensional archive,  
 I crystallise my saline alienness,  
 I dissolve it  
-On the immanence plane. 
-I am a now text-idol, 
+On the immanence plane.  
+I am a now text-idol,  
 
 <!-- block -->
 I am so fucking done for,  
