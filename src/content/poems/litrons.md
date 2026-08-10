@@ -237,7 +237,7 @@ Undifferentiated, as they are absorbed into the entire incessant circuit of fout
 
 <!-- block -->
 
-The transactions-foutre-du-capital,  
+The foutre-du-capital-transactions,  
 The shipments of foutre du capital,  
 The pressurized flows of foutre du capital,  
 The donations of foutre du capital,  
@@ -266,7 +266,7 @@ Club-good foutre du capital (Club Med, probably)…
 
 Constant foutre du capital…  
 Variable foutre du capital…  
-Over-foutre du capital generating profits,  
+Over-foutre-du-capital generating profits,  
 The interests, the dividends of foutre du capital…  
 The inflation of foutre du capital,  
 
@@ -283,7 +283,7 @@ Risk of macro-seminal bankruptcy.
 
 <!-- block -->
 
-*[Theoretical aside: One can exchange foutre du capital for foutre du capital, but one cannot exchange the macro-circuit of foutre du capital itself.*  
+*[Theoretical aside: One can exchange foutre du capital for foutre du capital, but one cannot exchange the macro-circuit of foutre du capital itself.  
 The circuit of foutre du capital is inalienable; it simply has no equivalent.  
 The philosopher noted this very aptly in an interview,  
 (A different one from the previous).]*  
@@ -446,8 +446,8 @@ The great millenium foutre.
 
 Circuit of hypertext links referring from foutre du capital to hyper-foutre du capital,  
 Cyber-foutre du capital,  
-Which foutre its capital through feedback loops.  
-Which retro-foutre its capital.  
+Which foutres its capital through feedback loops.  
+Which retro-foutres its capital.  
 
 <!-- block -->
 
@@ -474,7 +474,7 @@ The actor comes all his foutre du capital (in/on?) the actress’s body.
 She comes swallowing it, or simulates it, which amounts to the same.  
 He says:  
 “Ah damn yeah you like it, huh, my foutre du capital, huh, it’s good?” (sic),  
-In short 24/7 foutring your capital, or swallowing it.  
+In short 24/7 foutring ones capital, or swallowing it.  
 
 <!-- block -->
 
@@ -514,10 +514,10 @@ Humanist, universalist project of foutre du capital…
 Enlightenment foutre… crystalline.  
 Western foutre that colonizes the world,  
 Eastern foutre that seduces the world,  
+Globalization of stakes…  
 
 <!-- block -->
 
-Globalization of stakes…  
 Following a long international collaboration, scientists decoded the entire genome of foutre du capital.  
 Micro-biopolitical foutre du capital.  
 Global epidemic of capital-foutritis  
@@ -529,13 +529,13 @@ An exceptional emergency council of the WOFC (World Organization for Foutre du C
 Exceptional generalized foutre du capital everywhere in the world. Emergency foutre.  
 The foutre of Cincinnatus.  
 Security-oriented, authoritarian foutre du capital.  
-Petty-bourgeois foutre du capital (foutre of small capital), notable, provincial, closed, conservative, backward, nearly simple-minded (the foutre de François Bayrou).  
+Petty-bourgeois foutre du capital (foutre of the small capital), notable, provincial, closed, conservative, backward, nearly simple-minded (the foutre de François Bayrou).  
 
 <!-- block -->
 
 Proto-fascist foutre du capital.  
 Red-brown foutre du capital.  
-(If your foutre du capital is red-brown, you should consult; it is not normal, that is not the color of healthy capital foutre.)  
+(If your foutre du capital is red-brown, you should consult, it is not normal, that is not the color of an healthy foutre du capital.)  
 
 <!-- block -->
 
@@ -548,7 +548,7 @@ There is nothing that screams more foutre du capital than the trajectory of a le
 
 Paradigm of a historical dialectic of foutre du capital.  
 Foutre du Capital (the book),  
-Then Foutre of Reading the Capital.  
+Then Foutre de Lire le Capital.  
 (Foutre du capital is essentially hypertextual)  
 
 <!-- block -->
@@ -556,7 +556,7 @@ Then Foutre of Reading the Capital.
 Primitive accumulation of foutre du capital at the dawn of time,  
 Humanity discovers its manifest destiny.  
 The first man to assemble a small reserve of foutre du capital, that foutres it into a bag,  
-That crosses together the germs of different species of foutre du capital and literally make them fructify.  
+That crosses together the germs of different species of foutre du capital and make them fructify.  
 The clinamen…  
 
 <!-- block -->
@@ -585,8 +585,8 @@ I am done with all this foutre du capital.
 Ubiquitous, absurd…  
 Shit of foutre du capital.  
 Shitter of foutre du capital,  
-Foutre of foutre du capital…  
-Foufoutre of cacapipital (untranslated, ask some French).  
+Foutre de foutre du capital…  
+Foufoutre du cacapipital (untranslated, ask some French).  
 
 <!-- block -->
 
@@ -701,7 +701,7 @@ It is endless.
 
 <!-- block -->
 
-There will soon be no more space for le foutre du capital.  
+There will soon be no more space for foutre du capital.  
 (There is always some more space for a little more foutre du capital)  
 
 <!-- block -->
