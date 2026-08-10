@@ -1,5 +1,5 @@
 ---
-title: "Standing Ovation"
+title: "Standing ovation"
 excerpt: "A long litany of seduction, image-fatigue, theory, fashion, death drive, and becoming-text."
 date: 2026-05-23
 location: "N3R0 DG"
