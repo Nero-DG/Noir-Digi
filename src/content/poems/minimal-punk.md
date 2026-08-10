@@ -1,9 +1,9 @@
 ---   
-  title: "What's minimal punk?"   
-  excerpt: "I don't know"   
-  date: 2026-08-10   
-  location: "N3R0 DG"   
-  ---   
+title: "What's minimal punk?"   
+excerpt: "I don't know"   
+date: 2026-08-10   
+location: "N3R0 DG"   
+---   
      
 
 <!-- block --> 
