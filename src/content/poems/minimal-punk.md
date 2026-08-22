@@ -24,7 +24,7 @@ Rather than an extensive margin,
 That lies on the margin of the margin,  
 On the margin that is less marginal that the margin,  
 That operates  
-  On the inward frontiers,  
+On the inward frontiers,  
 On the inter-strata,  
 
 <!-- block --> 
@@ -113,7 +113,7 @@ But in the marginal poet secret pseudo-jerk-off wet dreams.
 
 <!-- block --> 
 
-The marginal poet secretly pseudo-jerk-off on wet dreams about their own obituary,  
+The marginal poet secretly pseudo-jerks-off on wet dreams about their own obituary,  
 Yeah that probably explains a whole lot about them,  
 And the whole thing,  
 Really.  
@@ -313,7 +313,7 @@ And of the riddance of the riddance,
 And got a laugh about it,  
 And I have not felt inspired for a minute now,  
 And  
-  What’s the almost nothing?  
+What’s the almost nothing?  
 Really.  
 But an inverted becoming.  
 
@@ -343,10 +343,10 @@ I feel this isn’t going anywhere.
 I’ll leave it to it.  
   
   
-<!-- block --
+<!-- block -->
   
   
   
   
   
-  _ 
+_ 
