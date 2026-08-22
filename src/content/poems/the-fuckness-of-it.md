@@ -1,7 +1,7 @@
 ---  
 title: "The fuckness of it"  
 excerpt: "To fuck the fuck "  
-date: 2026-05-23  
+date: 2026-08-22  
 location: "N3R0 DG"  
 ---  
   
