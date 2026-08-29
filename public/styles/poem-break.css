@@ -1,0 +1,12 @@
+/* Poem break styling: an actual paragraph with a non-breaking space so it occupies
+   the same height as a text line and appears visually empty. Scoped under .poem
+   so it matches poem text sizing. */
+.poem .poem-break {
+  margin: 0;                 /* same as .poem p */
+  font-size: inherit;        /* inherit the poem paragraph font-size (clamp) */
+  line-height: 1.15;         /* match .poem p line-height */
+  color: transparent;        /* hide the non-breaking space visually */
+  pointer-events: none;
+  -webkit-user-select: none;
+  user-select: none;
+}
