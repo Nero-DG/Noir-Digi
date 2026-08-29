@@ -1,5 +1,4 @@
 @import url("https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@300;400;700;800&display=swap");
-@import "poem-break.css";
 
 :root {
   color-scheme: dark;
@@ -261,4 +260,254 @@ a {
   text-transform: uppercase;
 }
 
-/* ... rest of file unchanged ... */
+.site-mark:hover,
+.site-mark:focus-visible {
+  color: #ffffff;
+  outline: 0;
+}
+
+:root[data-tone="standing-ovation"] .site-mark {
+  color: rgba(255, 255, 255, 0.68);
+}
+
+.skin-switcher {
+  position: fixed;
+  left: clamp(14px, 3vw, 38px);
+  bottom: clamp(14px, 3vw, 34px);
+  z-index: 12;
+  display: grid;
+  gap: 0.35rem;
+  color: rgba(255, 255, 255, 0.4);
+  font-family: var(--font-ui);
+  font-size: clamp(0.66rem, 1vw, 0.78rem);
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  line-height: 1;
+  text-transform: uppercase;
+}
+
+.skin-switcher a {
+  position: relative;
+  width: fit-content;
+  color: inherit;
+  transition:
+    color 180ms ease,
+    transform 220ms ease;
+}
+
+.skin-switcher a::before {
+  content: "";
+  position: absolute;
+  top: 50%;
+  right: calc(100% + 0.45rem);
+  width: 0.65rem;
+  height: 1px;
+  background: currentColor;
+  opacity: 0;
+  transform: translateY(-50%) scaleX(0.2);
+  transform-origin: right center;
+  transition:
+    opacity 180ms ease,
+    transform 220ms ease;
+}
+
+.skin-switcher a:hover,
+.skin-switcher a:focus-visible,
+:root[data-skin="contact"] .skin-switcher [data-skin-option="contact"],
+:root[data-skin="xerox"] .skin-switcher [data-skin-option="xerox"],
+:root[data-skin="motel"] .skin-switcher [data-skin-option="motel"] {
+  color: rgba(255, 255, 255, 0.86);
+  outline: 0;
+  transform: translateX(0.18rem);
+}
+
+.skin-switcher a:hover::before,
+.skin-switcher a:focus-visible::before,
+:root[data-skin="contact"] .skin-switcher [data-skin-option="contact"]::before,
+:root[data-skin="xerox"] .skin-switcher [data-skin-option="xerox"]::before,
+:root[data-skin="motel"] .skin-switcher [data-skin-option="motel"]::before {
+  opacity: 1;
+  transform: translateY(-50%) scaleX(1);
+}
+
+.index-page {
+  position: relative;
+  z-index: 1;
+  min-height: 165vh;
+  width: min(980px, calc(100% - 32px - clamp(110px, 18vw, 280px)));
+  margin: 0 auto 0 clamp(16px, 6vw, 88px);
+  padding: clamp(120px, 16vw, 190px) 0 40vh;
+  border-left: 1px solid var(--faint);
+  border-right: 1px solid rgba(255, 255, 255, 0.06);
+}
+
+.poem-index {
+  display: grid;
+  gap: clamp(28px, 7vw, 96px);
+  margin-top: clamp(42vh, 48vw, 62vh);
+  padding-bottom: 20vh;
+}
+
+.poem-index a {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  max-width: 100%;
+  padding-left: clamp(12px, 2vw, 24px);
+  color: var(--text);
+  transform: translateY(0);
+  transition:
+    color 220ms ease,
+    transform 420ms cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+.poem-title {
+  font-size: clamp(1.6rem, 5.5vw, 5.8rem);
+  font-weight: 800;
+  line-height: 0.82;
+  letter-spacing: -0.06em;
+}
+
+.poem-date {
+  font-size: clamp(0.65rem, 1.2vw, 0.85rem);
+  color: var(--muted);
+  font-family: var(--font-ui);
+  font-weight: 400;
+  letter-spacing: 0.02em;
+  margin-top: clamp(4px, 0.5vw, 8px);
+}
+
+.poem-index a:hover,
+.poem-index a:focus-visible {
+  color: var(--muted);
+  transform: translateY(-0.12em) translateX(0.08em);
+  outline: 0;
+}
+
+.poem-page {
+  position: relative;
+  z-index: 1;
+  width: min(820px, calc(100% - 32px - clamp(110px, 18vw, 280px)));
+  margin: 0 auto 0 clamp(16px, 6vw, 88px);
+  padding: clamp(120px, 16vw, 190px) 0 calc(clamp(1.2rem, 2.15vw, 1.82rem) * 5.75);
+  border-left: 1px solid var(--faint);
+  border-right: 1px solid rgba(255, 255, 255, 0.06);
+}
+
+:root[data-tone="standing-ovation"] .poem-page,
+:root[data-tone="gogol-drive"] .poem-page {
+  border-left: 0;
+  border-right: 0;
+}
+
+.poem header {
+  margin-bottom: clamp(48px, 10vw, 120px);
+}
+
+.date {
+  margin: 0 0 18px;
+  color: var(--muted);
+  font-family: var(--font-ui);
+  font-size: 0.72rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.poem h1 {
+  margin: 0;
+  color: var(--text);
+  font-size: clamp(3rem, 10vw, 9rem);
+  font-weight: 800;
+  line-height: 0.82;
+  letter-spacing: -0.06em;
+  text-transform: uppercase;
+}
+
+.poem p,
+.poem-flow {
+  margin: 0;
+  color: var(--text);
+  font-size: clamp(1.2rem, 2.15vw, 1.82rem);
+  font-weight: 400;
+  line-height: 1.15;
+}
+
+.poem-flow {
+  margin: 0;
+}
+
+.has-js .poem-segment {
+  display: inline-block;
+  opacity: var(--block-progress, 0);
+  transform: scale(1);
+  transform-origin: left center;
+  transition:
+    color 180ms ease,
+    opacity 220ms linear,
+    transform 260ms cubic-bezier(0.16, 1, 0.3, 1);
+  will-change: opacity, transform;
+}
+
+.has-js .poem-segment.is-hovered {
+  color: #ffffff;
+  transform: scale(1.075, 1.075);
+  opacity: 1;
+}
+
+.poem em {
+  font-style: italic;
+  color: rgba(255, 255, 255, 0.78);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .has-js .poem-segment {
+    opacity: 1;
+    transition: none;
+  }
+}
+
+@media (max-width: 680px) {
+  .site-mark {
+    right: 12px;
+    z-index: 2;
+    color: rgba(255, 255, 255, 0.18);
+    font-size: clamp(1.5rem, 10vw, 3rem);
+  }
+
+  .skin-switcher {
+    left: 12px;
+    bottom: 12px;
+    z-index: 3;
+    font-size: 0.62rem;
+  }
+
+  :root[data-tone="standing-ovation"] .site-mark,
+  :root[data-tone="gogol-drive"] .site-mark {
+    color: rgba(255, 255, 255, 0.16);
+  }
+
+  .index-page,
+  .poem-page {
+    width: min(100% - 24px, 900px);
+    margin: 0 auto;
+  }
+
+  .index-page {
+    min-height: 145vh;
+  }
+
+  .poem-index {
+    margin-top: 38vh;
+  }
+
+  .has-js .poem-segment {
+    display: inline;
+    transform: none;
+  }
+
+  .has-js .poem-segment.is-hovered {
+    transform: none;
+  }
+}
