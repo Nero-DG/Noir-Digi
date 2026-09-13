@@ -278,7 +278,7 @@ But nobody,
 <!-- block --> 
 
 You cannot disengage,  
-You can feel some of these so claimed peoples must have been alien,  
+You can feel some of these so-claimed 'people' must have been alien,  
 From another sensibility  
 That you never had,  
 
