@@ -19,7 +19,7 @@ There is a decadence
 That resides in stillness  
 Rather than in degradation,  
 In absolute inertia,  
-Rather than in decline,
+Rather than in decline,  
 In absence,  
 Rather than in anything,  
 Really.  
@@ -85,7 +85,7 @@ Of some sort
 And I am so fucking done for   
 The sake of it  
 As well.  
-And I am just enduring its restless,
+And I am just enduring its restless,  
 Its careless thrust  
 Back-and-forth.  
 
