@@ -1,7 +1,7 @@
 --- 
 title: "In (the) McDonald's™" 
 excerpt: "To fuck the fuck " 
-date: 2026-09-28 
+date: 2026-08-28 
 location: "N3R0 DG" 
 --- 
 
