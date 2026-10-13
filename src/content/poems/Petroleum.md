@@ -135,6 +135,8 @@ The viral tearing apart of your own identity
 By a cultural residual expending far beyond,  
 That of the unliving,  
 Of the unwilling,  
+Of the unborn,  
+Of the unborned,  
 Of the unmet,  
 Of the unmeant.  
   
