@@ -615,6 +615,14 @@ Fuck it.
 The Talmud’s hypertextuality,  
 Any form of cyber-sexuality.  
 
+
+<!-- block -->
+
+(*I wanna chat with you,  
+I wanna see you on my screen,  
+Show me your body, and all night long...   
+I wanna see you on my screen, boy...*)  
+
 <!-- block -->
 
 I can’t stand abstraction,  
