@@ -104,8 +104,9 @@ An ataraxic failure,
 
 <!-- block -->
 
-I can’t stand Eva Green in *The Dreamers*  
-And it was just a full fledged drive for annihilation.  
+I can’t stand Eva Green in *The Dreamers*,  
+And it was just a full fledged drive for annihilation  
+When I saw that movie,  
 I just knew my life would be a wreck by then,  
 Already.  
 
@@ -144,13 +145,16 @@ And this is a metaphysical not a sociological critique.
 
 I can't stand Anton Corbijn's  
 Textured neo-noir  
-Post-punk.  
+Post-punk,  
+Period.  
 
 <!-- block -->
 
-I have become so tired of all the  
-Fucking around.  
+I have just become so tired of all the  
+Fucking around...  
+Of all the fucking all around,  
 And the drool and the spunk  
+Everywhere,  
 I can't stand it anymore,  
 I am so exhausted,  
 I am so excited,  
@@ -185,7 +189,11 @@ Or any articulated discourse more generally.)
 
 This is sex and death drives being essentially intertwined,  
 Which is the concept of the unbearable,  
-Or equivalently of the sublime.  
+Or equivalently of the sublime,  
+Fuck me.  
+
+<!-- block -->
+
 Have you ever faced a being so sexy  
 It made you want to  
 Die from within? I mostly did.  
@@ -198,6 +206,7 @@ Their skeletal sex-appeal embodies this intertwining the most.
 <!-- block -->
 I can’t stand the mineral-becoming,  
 The becoming-a-mineral,  
+The tangential siltation,   
 The perfect stillness of it...  
 
 <!-- block -->
@@ -217,12 +226,13 @@ I cannot stand it.
 <!-- block -->
 
 I can't stand the Cobra snake's party shoots, indie sleeze,  
-Something make me really depressed about them,  
+Something makes me really depressed about them,  
 I think it's the recursion of fame and party  
 Folding back on one another,  
 I cannot stand their circular mythology,  
 Their self-sucking hagiography,  
-I am so fucking done for.  
+I am so fucking done for  
+The sake of it.  
 
 <!-- block -->
 
@@ -237,7 +247,7 @@ And this is a metaphysical not a sociological critique.
 I can't stand the denim fabric's  
 Contact with my cock.  
 In paradise   
-Everyone only wears Jeans  
+Everyone only wears tight jeans  
 With their pubis showing  
 Like in those Cavin Klein publicities.  
 
@@ -253,13 +263,13 @@ In *Marienbad*’s glam-phantomality.
 The signifier *femme*,  
 Both as a visual and as an acoustic footprint.  
 Is the signifier always femme?  
-The type of corny shit you could read in *Cool Memories*…  
+The type of corny shit you would read in *Cool Memories*…  
 
 <!-- block -->
 
 Kafka’s main characters are always making love from room to room,  
 Inside-out in non-riemanian topologies,  
-What are they complaining so much about?  
+What are they complaining tf so much about?  
 
 <!-- block -->
 
@@ -290,7 +300,7 @@ The grand aesthetic orgy.
 
 <!-- block -->
 
-I can’t fucking stand the orgy...  
+Fucking I can’t stand the orgy...  
 What is anyone doing after the orgy anyway?  
 It has to come to an end at some point or it never even started really.  
 It was all a fraud…  
@@ -398,6 +408,9 @@ I can't stand him,
 Bloody can't  
 Or any poetry or anything punk,  
 And Yves Adrien,  
+And modern young people,  
+And the indifferent, 
+The inhuman cool of Növö,  
 
 <!-- block -->
 
@@ -407,8 +420,9 @@ In the epsilon intimacy.
 
 <!-- block -->
 
-I can’t stand *Night Porter*, that’s once again the dealing with both sex and death drives,  
-Fucking Jean-Baptiste Mondino,  
+I can’t stand *Night Porter*,  
+That’s once again the dealing with both sex and death drives,  
+Fucking Jean-Baptiste Mondino...  
 I can’t stand Death in Vegas,  
 Because the name reminds me of the *Suicide Motel* I think,  
 And *Hands Around My Throat* has something too sexy.  
@@ -442,7 +456,12 @@ I don’t know.
 
 I don’t know if I can’t stand the flat screen because of all the images it displays  
 Or all the images because they are displayed on the (ideally) perfect flatness of the screen  
-And I can’t stand the ever flowing display when I scroll across beauty.   
+And I can’t stand the ever flowing display when I scroll across beauty.  
+I want to be absorbed ont it myself,  
+And erased,  
+Deleted,  
+Exterminated,  
+Maybe.  
 
 <!-- block -->
 
@@ -573,7 +592,7 @@ Brothel in Belize, Crystal Castles, The Hellp, Julian Casablancas,
 Deleuze on the suicide of Primo Levi,  
 And the reflect of Claire Parnet in the Mirror,  
 And her voice,  
-I am so fucking done for  
+I was so fucking done for,  
 Kate Moss,  
 Virtuality.  
 
@@ -587,7 +606,8 @@ Because in *Inflammatory Essays* she wants to put young good-looking girls behin
 
 *Gonzo journalism*,  
 *Gonzo porn*,  
-*Gonzo everything* anyway,  
+*Gonzo everything* everywhere anyway,  
+Nowaday,  
 Fuck it.  
 
 <!-- block -->
@@ -627,7 +647,7 @@ Self-referientiality.
 What else, what's next?  
 I am almost done,  
 I think.  
-I am almost so fucking done for,  
+Almost so fucking done for,  
 
 <!-- block -->
 
@@ -695,6 +715,10 @@ I can’t stand thermic cameras displaying the lukewarm enveloppe of anonymous b
 I lost my religion,  
 I can’t stand *Losing My Religion*,  
 And the cartesian idea of the never reached negative infinite.  
+It's what this is all about if you did not get it.  
+
+<!-- block -->
+
 I can’t stand the cultural crystalisation of the feminine  
 Of course I don’t,  
 I am so fucking done for  
@@ -729,6 +753,7 @@ If ever one.
 <!-- block -->
 
 I lost my charisma,  
+In the most boring neighborhood,  
 They never gave it back,  
 I am so fucking done for…  
 I don’t give a fuck,  
