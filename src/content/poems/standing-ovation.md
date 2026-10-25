@@ -412,7 +412,7 @@ And modern young people,
 And the indifferent, 
 The inhuman cool of Növö,  
 
-<!-- block -->
+<!—- block —->
 
 I cannot stand the geometric intuition in the concept of asymptotic tangency  
 Because of the infinitesimal, irresolvable distance it implies between our skins  
@@ -486,7 +486,14 @@ Bataille’s *Eroticism*
 Ecstatic in *Minuit Double*,  
 Inorganic and indifferent in *2001 Modern Classics*,  
 Asia Argento,  
-But that’s corny.  
+But that’s corny,
+
+<!-- block -->
+
+I’ve been terminally fucked,  
+I’ve been integrally screwed  
+By the everything all around,  
+Whatever…  
 
 <!-- block -->
 
