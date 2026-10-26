@@ -104,7 +104,6 @@ Hypertextuality,
 <!-- block -->  
   
 I DIDN'T GET SHIT ABOUT IT!  
-I DON’T KNOW SHIT ABOUT IT!  
 I DON’T WANT TO KNOW SHIT ABOUT IT ANYMORE!  
 STOP ASKING ME!!!  
   
