@@ -97,6 +97,7 @@ Or maybe?
 
 <!-- block -->
 
+There is this eerie magnetism floating everywhere,  
 I can’t stand Megumi Satsu being exterminated in the *Suicide Motel*,  
 I had been dreaming of a suicide motel as well,  
 A terminal facility for desire to end,  
@@ -320,7 +321,7 @@ Screaming at me
 You're Such a Loser,  
 I can’t stand fashion as a concept, and curating altogether…  
 It’s so hard to assemble something that feels relevant  
-And I already fell exhausted by the simple thought of all the fractal details that add to one another in the composition of any perfect beauty.  
+And I already felt exhausted by the simple thought of all the fractal details that add to one another in the composition of any perfect beauty.  
 
 <!-- block -->
 
@@ -412,7 +413,7 @@ And modern young people,
 And the indifferent, 
 The inhuman cool of Növö,  
 
-<!—- block —->
+<!-- block -->
 
 I cannot stand the geometric intuition in the concept of asymptotic tangency  
 Because of the infinitesimal, irresolvable distance it implies between our skins  
