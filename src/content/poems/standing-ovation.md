@@ -247,14 +247,15 @@ And this is a metaphysical not a sociological critique.
 
 Patricia Arquette had me so fucking done for,  
 Twice,  
-And Elizabeth Frazer is humming the song to the siren,  
+And Elizabeth Frazer is humming the *Song to the siren*,  
 Fuck me dead,  
-Oh, chérie.  
+Fuck me, oh, cheree.  
 
 
 <!-- block -->
 
-I can't stand the denim fabric's  
+I can't stand it, 
+The denim fabric's  
 Contact with my cock.  
 In paradise   
 Everyone only wears tight jeans  
