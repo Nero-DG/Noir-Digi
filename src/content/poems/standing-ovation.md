@@ -583,7 +583,20 @@ I can't stand the acid fragrance of semen,
 Its irnoganic transparence,  
 Its metalic alterity,   
 I don't really know,  
-I really don't know.  
+I really don't know. 
+
+<!-- block -->
+
+Warum Joe is minimal punk sometimes,   
+On *Casablanca*  
+Or *Bloody Mary*.  
+And there is a subtile cleft opened  
+On the world’s flatline,  
+A reverberated density.  
+My back is against the wall,  
+A soldier is fighting some fucked up war somewhere,  
+Drunk and so fucking done for,  
+I couldn’t stand it.
 
 <!-- block -->
 
@@ -599,7 +612,7 @@ Way before they'd fucked me.
 I can’t stand les Rallizes dénudés,  
 I can’t stand le Silencio,  
 (I’ve never been),  
-It keeps wearing down on me...  
+It keeps wearing down on me... 
 Any form of charisma,  
 I lost my charisma in the most boring encounter,  
 They tricked me in the symbolic exchange,  
